@@ -1,4 +1,4 @@
-These HMMs were queried against a select set of 85 genomes from NCBI's RefSeq and GenBank databases:
+These HMMs were queried against a select set of 85 genomes from NCBI's RefSeq and GenBank databases using the MagicLamp software: [https://github.com/Arkadiy-Garber/MagicLamp](https://github.com/Arkadiy-Garber/MagicLamp)
 
     GCA_000008885.1
     GCA_000021505.1

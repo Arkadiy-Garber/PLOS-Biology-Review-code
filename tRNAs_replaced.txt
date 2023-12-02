@@ -1,0 +1,86 @@
+Accession	OrganismName	GlyTCC	GlnTTG	LysTTT	PheGAA	ThrTGT	TyrGTA	AlaTGC	ProTGG	ValTAC-ValGAC	IleGAT	SerTGA	GlyGCC	HisGTG	AspGTC	MetCAT	ArgTCT	SerGCT	fMetCAT	TrpCCA	CysGCA	AsnGTT	GluTTC	LeuTAG-LeuGAG	LeuTAA-LeuCAA
+GCF_000974825.1	Escherichia coli K-12	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_002119845.1	Rhizobium etli strain NXC12 chromosome	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000021865.1	Rhodobacter capsulatus SB 1003	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_013030075.1	Neisseria gonorrhoeae strain TUM19854 chromosome	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000931575.1	Haemophilus influenzae strain 477 chromosome	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000012345.1	Candidatus Pelagibacter ubique HTCC1062	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000008605.1	Treponema pallidum subsp pallidum str Nichols	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000195735.1	Rickettsia prowazekii str Madrid E	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_002777075.1	Chlamydia trachomatis strain SQ05	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_944407095.1	Candidatus Enterousia intestinigallinarum	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_900638335.1	Campylobacter lari strain NCTC11937	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000304455.1	Cardinium endosymbiont cEper1 of Encarsia pergandiella	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_900048035.1	Candidatus Gullanella endobia	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_030060845.1	Candidatus Midichloria sp	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000196075.1	Tropheryma whipplei TW08/27	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_019669085.1	Borrelia sp HM	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
+GCA_016699915.1	Neisseriales bacterium	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000013165.1	Neorickettsia sennetsu str Miyayama	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_001029715.1	candidate division TM6 bacterium GW2011_GWF2_28_16	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
+GCF_900039485.1	Candidatus Doolittlea endobia	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_026644375.1	Borreliella afzelii strain PMel 	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000011745.1	Candidatus Blochmannia pennsylvanicus str BPEN	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000754265.1	Candidatus Baumannia cicadellinicola	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000828515.1	Candidatus Ishikawaella capsulata Mpkobe	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000247565.1	Wigglesworthia glossinidia endosymbiont of Glossina morsitans morsitans (Yale colony)	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_000043285.1	Candidatus Blochmannia floridanus	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_005697395.1	TM7 phylum sp oral taxon 952	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_000008885.1	Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_946893605.1	Candidatus Saccharibacteria bacterium	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1
+GCA_023898665.1	Candidatus Nomurabacteria bacterium	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_017134395.1	Candidatus Kaiserbacteria bacterium	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_025999335.1	Candidatus Parcubacteria bacterium	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
+GCF_021222645.1	Candidatus Nanosynbacter sp HMT-352	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_024205245.1	Buchnera aphidicola (Sitobion miscanthi)	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_015257795.3	Candidatus Nanogingivalaceae bacterium	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_900343015.1	Arsenophonus endosymbiont of Aleurodicus dispersus	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_027925225.1	Candidatus Hepatoplasma sp	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_026016225.1	Candidatus Nealsonbacteria bacterium	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1
+GCA_900016775.1	Serratia symbiotica	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_014251515.1	Blattabacterium cuenoti	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_015256915.3	Candidatus Saccharimonas sp	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_900044015.1	Candidatus Hoaglandella endobia	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_001269425.1	Candidatus Baumannia cicadellinicola	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_009883795.1	Coxiella endosymbiont of Amblyomma sculptum	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000093065.1	Candidatus Riesia pediculicola USDA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000027325.1	Mycoplasmoides genitalium G37	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_019923565.1	Candidatus Schneideria nysicola	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_025999395.1	Candidatus Parcubacteria bacterium	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_025021925.1	Wolbachia endosymbiont of Howardula sp	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000219175.1	Candidatus Moranella endobia PCIT	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_002074035.1	Candidatus Riesia sp GBBU	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_001242845.1	Candidatus Westeberhardia cardiocondylae	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_002776555.1	Legionella endosymbiont of Polyplax serrata	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_012562765.1	Enterobacteriaceae endosymbiont of Plateumaris pusilla	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
+GCF_014251975.1	Blattabacterium cuenoti	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_028856405.1	Candidatus Purcelliella pentastirinorum	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_012571345.1	Enterobacteriaceae endosymbiont of Macroplea mutica	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_013463555.1	Candidatus Profftella armatura	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_005080705.1	Buchnera aphidicola (Therioaphis trifolii)	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_002849995.1	Candidatus Portiera aleyrodidarum	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_000953435.1	Candidatus Evansia muelleri	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_900048045.1	Candidatus Mikella endobia	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_020541245.1	Candidatus Annandia pinicola	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_015139955.1	Candidatus Stammera capleta	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000709555.1	Candidatus Walczuchella monophlebidarum	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_900090215.1	secondary endosymbiont of Trabutina mannipara	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_902860225.1	Candidatus Azoamicus ciliaticola	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_000829155.1	Candidatus Karelsulcia muelleri PSPU	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_902713755.1	Candidatus Portiera aleyrodidarum	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_000331975.1	Candidatus Uzinura diaspidicola str ASNER	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_004296475.1	endosymbiont of Sipalinus gigas	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_015134435.1	Candidatus Stammera capleta	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_000147015.1	Candidatus Zinderia insecticola CARI	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1
+GCF_017656055.1	Candidatus Nardonella dryophthoridicola	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCF_013463375.1	Candidatus Carsonella ruddii	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_000412755.1	Candidatus Tremblaya phenacola PAVE	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_015697925.1	Candidatus Pinguicoccus supinus	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
+GCF_000287295.1	Candidatus Carsonella ruddii HT isolate Thao2000	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_000699475.1	Candidatus Hodgkinia cicadicola	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	1	0	0
+GCA_002290365.1	Candidatus Nasuia deltocephalinicola	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+GCA_000021505.1	Candidatus Hodgkinia cicadicola Dsem	1	1	1	1	0	0	1	1	0	1	0	1	1	0	1	0	0	1	1	1	0	1	0	0
+GCF_016889585.1	Candidatus Karelsulcia muelleri	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
+GCA_900019315.1	Candidatus Tremblaya princeps	1	0	0	0	0	1	1	0	0	0	1	0	1	0	0	0	0	0	1	1	0	0	0	0
+GCA_003391315.1	Candidatus Vidania fulgoroideae	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	0	1	0	1	0
+GCA_024818515.1	Candidatus Nasuia deltocephalinicola	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	1	0

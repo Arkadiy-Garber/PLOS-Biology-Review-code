@@ -1,0 +1,540 @@
+GCA_000008885.1.gff
+BA000021.3	DDBJ	rRNA	136582	138132	.	+	.	ID=rna-rrsH;Parent=gene-rrsH;gbkey=rRNA;gene=rrsH
+BA000021.3	DDBJ	rRNA	138403	141324	.	+	.	ID=rna-rrlB;Parent=gene-rrlB;gbkey=rRNA;gene=rrlB
+BA000021.3	DDBJ	rRNA	141380	141499	.	+	.	ID=rna-rrfA;Parent=gene-rrfA;gbkey=rRNA;gene=rrfA
+BA000021.3	DDBJ	rRNA	680825	680944	.	-	.	ID=rna-rrfA-2;Parent=gene-rrfA-2;gbkey=rRNA;gene=rrfA
+BA000021.3	DDBJ	rRNA	681000	683921	.	-	.	ID=rna-rrlB-2;Parent=gene-rrlB-2;gbkey=rRNA;gene=rrlB
+BA000021.3	DDBJ	rRNA	684192	685742	.	-	.	ID=rna-rrsH-2;Parent=gene-rrsH-2;gbkey=rRNA;gene=rrsH
+
+GCA_000021505.1.gff
+CP001226.1	Genbank	rRNA	93349	94878	.	+	.	ID=rna-HCDSEM_128;Parent=gene-HCDSEM_128;gbkey=rRNA;gene=rrsA;locus_tag=HCDSEM_128;product=small subunit ribosomal RNA (16S rRNA)
+CP001226.1	Genbank	rRNA	95185	97948	.	+	.	ID=rna-HCDSEM_130;Parent=gene-HCDSEM_130;gbkey=rRNA;gene=rrlA;locus_tag=HCDSEM_130;product=large subunit ribosomal RNA (23S rRNA)
+CP001226.1	Genbank	rRNA	97965	98093	.	+	.	ID=rna-HCDSEM_131;Parent=gene-HCDSEM_131;gbkey=rRNA;gene=rrfA;locus_tag=HCDSEM_131;product=5S ribosomal RNA (5S rRNA)
+
+GCA_000043285.1.gff
+BX248583.1	EMBL	rRNA	238664	238785	.	+	.	ID=rna-Bfl222;Parent=gene-Bfl222;gbkey=rRNA;gene=5S rRNA;locus_tag=Bfl222
+BX248583.1	EMBL	rRNA	613128	616171	.	-	.	ID=rna-Bfl552;Parent=gene-Bfl552;gbkey=rRNA;gene=23S rRNA;locus_tag=Bfl552
+BX248583.1	EMBL	rRNA	616478	618033	.	-	.	ID=rna-Bfl554;Parent=gene-Bfl554;gbkey=rRNA;gene=16S rRNA;locus_tag=Bfl554
+
+GCA_000147015.1.gff
+CP002161.1	Genbank	rRNA	5310	6845	.	+	.	ID=rna-ZICARI_006;Parent=gene-ZICARI_006;Note=small subunit ribosomal RNA;gbkey=rRNA;gene=rrsA;locus_tag=ZICARI_006;product=16S ribosomal RNA
+CP002161.1	Genbank	rRNA	6931	9818	.	+	.	ID=rna-ZICARI_007;Parent=gene-ZICARI_007;Note=large subunit ribosomal RNA;gbkey=rRNA;gene=rrlA;locus_tag=ZICARI_007;product=23S ribosomal RNA
+CP002161.1	Genbank	rRNA	9853	9962	.	+	.	ID=rna-ZICARI_008;Parent=gene-ZICARI_008;gbkey=rRNA;gene=rrfA;locus_tag=ZICARI_008;product=5S ribosomal RNA
+
+GCA_000331975.1.gff
+CP003263.1	Genbank	rRNA	42143	42254	.	-	.	ID=rna-ASNER_046;Parent=gene-ASNER_046;Note=5S rRNA predicted using tRNAScan-SE;gbkey=rRNA;gene=rrfA;locus_tag=ASNER_046;product=5S ribosomal RNA
+CP003263.1	Genbank	rRNA	42316	45175	.	-	.	ID=rna-ASNER_047;Parent=gene-ASNER_047;Note=23S rRNA predicted using tRNAScan-SE;gbkey=rRNA;gene=rrlA;locus_tag=ASNER_047;product=23S ribosomal RNA
+CP003263.1	Genbank	rRNA	45423	46954	.	-	.	ID=rna-ASNER_051;Parent=gene-ASNER_051;Note=16S rRNA predicted using tRNAScan-SE;gbkey=rRNA;gene=rrsA;locus_tag=ASNER_051;product=16S ribosomal RNA
+
+GCA_000412755.1.gff
+CP003982.1	Genbank	rRNA	53662	53775	.	+	.	ID=rna-TPPAVE_064;Parent=gene-TPPAVE_064;Note=predicted with RNAmmer-1.2;gbkey=rRNA;gene=rrfA;locus_tag=TPPAVE_064;product=5S ribosomal RNA
+CP003982.1	Genbank	rRNA	148297	148410	.	-	.	ID=rna-TPPAVE_189;Parent=gene-TPPAVE_189;Note=predicted with RNAmmer-1.2;gbkey=rRNA;gene=rrfA;locus_tag=TPPAVE_189;product=5S ribosomal RNA
+CP003982.1	Genbank	rRNA	148474	151450	.	-	.	ID=rna-TPPAVE_190;Parent=gene-TPPAVE_190;Note=predicted with RNAmmer-1.2;gbkey=rRNA;gene=rrlA;locus_tag=TPPAVE_190;product=23S ribosomal RNA
+CP003982.1	Genbank	rRNA	151582	153152	.	-	.	ID=rna-TPPAVE_191;Parent=gene-TPPAVE_191;Note=predicted with RNAmmer-1.2;gbkey=rRNA;gene=rrsA;locus_tag=TPPAVE_191;product=16S ribosomal RNA
+
+GCA_000699475.1.gff
+CP008699.1	Genbank	rRNA	96677	98158	.	+	.	ID=rna-HCTETULN_129;Parent=gene-HCTETULN_129;Note=COORDINATES: profile:RNAmmer:1.2%2CHCTETULN_128;gbkey=rRNA;locus_tag=HCTETULN_129;product=16S ribosomal RNA
+CP008699.1	Genbank	rRNA	98351	101080	.	+	.	ID=rna-HCTETULN_131;Parent=gene-HCTETULN_131;Note=COORDINATES: profile:RNAmmer:1.2%2CHCTETULN_130;gbkey=rRNA;locus_tag=HCTETULN_131;product=23S ribosomal RNA
+CP008699.1	Genbank	rRNA	101112	101215	.	+	.	ID=rna-HCTETULN_132;Parent=gene-HCTETULN_132;Note=COORDINATES: profile:RNAmmer:1.2%2CHCTETULN_131;gbkey=rRNA;locus_tag=HCTETULN_132;product=5S ribosomal RNA
+
+GCA_000953435.1.gff
+LM655252.1	EMBL	rRNA	4395	5878	.	+	.	ID=rna-CEM_004;Parent=gene-CEM_004;gbkey=rRNA;gene=rrs;inference=ab initio prediction:RAST:4.0:BASys:1.0;locus_tag=CEM_004;product=16S ribosomal RNA
+LM655252.1	EMBL	rRNA	6114	9016	.	+	.	ID=rna-CEM_005;Parent=gene-CEM_005;gbkey=rRNA;gene=rrl;inference=ab initio prediction:RAST:4.0:BASys:1.0;locus_tag=CEM_005;product=23S ribosomal RNA
+LM655252.1	EMBL	rRNA	301367	301484	.	+	.	ID=rna-CEM_308;Parent=gene-CEM_308;gbkey=rRNA;gene=rrf;inference=ab initio prediction:RAST:4.0:BASys:1.0;locus_tag=CEM_308;product=5S ribosomal RNA
+
+GCA_001029715.1.gff
+CP011212.1	Genbank	rRNA	132699	135602	.	+	.	ID=rna-US01_C0001G0110;Parent=gene-US01_C0001G0110;gbkey=rRNA;locus_tag=US01_C0001G0110;product=23S ribosomal RNA
+CP011212.1	Genbank	rRNA	677786	679269	.	+	.	ID=rna-US01_C0001G0713;Parent=gene-US01_C0001G0713;gbkey=rRNA;locus_tag=US01_C0001G0713;product=16S ribosomal RNA
+
+GCA_002074035.1.gff
+CP012849.1	Genbank	rRNA	49	2982	.	-	.	ID=rna-AOQ88_00030;Parent=gene-AOQ88_00030;gbkey=rRNA;locus_tag=AOQ88_00030;product=23S ribosomal RNA
+CP012849.1	Genbank	rRNA	3256	4803	.	-	.	ID=rna-AOQ88_00040;Parent=gene-AOQ88_00040;gbkey=rRNA;locus_tag=AOQ88_00040;product=16S ribosomal RNA
+CP012849.1	Genbank	rRNA	254349	257282	.	-	.	ID=rna-AOQ88_01190;Parent=gene-AOQ88_01190;gbkey=rRNA;locus_tag=AOQ88_01190;product=23S ribosomal RNA
+CP012849.1	Genbank	rRNA	257532	259079	.	-	.	ID=rna-AOQ88_01200;Parent=gene-AOQ88_01200;gbkey=rRNA;locus_tag=AOQ88_01200;product=16S ribosomal RNA
+
+GCA_002290365.1.gff
+CP021173.1	Genbank	rRNA	116617	116722	.	-	.	ID=rna-CA212_159;Parent=gene-CA212_159;gbkey=rRNA;locus_tag=CA212_159;product=5S Ribosomal RNA
+CP021173.1	Genbank	rRNA	116746	119635	.	-	.	ID=rna-CA212_160;Parent=gene-CA212_160;gbkey=rRNA;locus_tag=CA212_160;product=23S Ribosomal RNA
+CP021173.1	Genbank	rRNA	119761	121321	.	-	.	ID=rna-CA212_162;Parent=gene-CA212_162;gbkey=rRNA;locus_tag=CA212_162;product=16S Ribosomal RNA
+
+GCA_003391315.1.gff
+CP028360.1	Genbank	rRNA	117413	117517	.	-	.	ID=rna-C9I84_147;Parent=gene-C9I84_147;Note=5S rRNA;gbkey=rRNA;locus_tag=C9I84_147;product=5S Ribosomal RNA
+CP028360.1	Genbank	rRNA	117521	120388	.	-	.	ID=rna-C9I84_148;Parent=gene-C9I84_148;Note=23S rRNA;gbkey=rRNA;locus_tag=C9I84_148;product=23S Ribosomal RNA
+CP028360.1	Genbank	rRNA	120593	122087	.	-	.	ID=rna-C9I84_151;Parent=gene-C9I84_151;Note=16S rRNA;gbkey=rRNA;locus_tag=C9I84_151;product=16S Ribosomal RNA
+
+GCA_005697395.1.gff
+CP040011.1	Genbank	rRNA	118726	120207	.	+	.	ID=rna-FBF38_00605;Parent=gene-FBF38_00605;gbkey=rRNA;locus_tag=FBF38_00605;product=16S ribosomal RNA
+CP040011.1	Genbank	rRNA	122574	125683	.	+	.	ID=rna-FBF38_00635;Parent=gene-FBF38_00635;gbkey=rRNA;locus_tag=FBF38_00635;product=23S ribosomal RNA
+CP040011.1	cmsearch	rRNA	125875	125983	.	+	.	ID=rna-FBF38_00640;Parent=gene-FBF38_00640;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FBF38_00640;product=5S ribosomal RNA
+
+GCA_015134435.1.gff
+CP043989.1	Infernal	rRNA	201853	201969	1.6e-11	-	.	;Name=IMOFCE_01555;Name=5S ribosomal RNA;locus_tag=IMOFCE_01555;gene=5S_rrna;product=5S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00001;Parent=IMOFCE_01555_gene;inference=profile:Rfam:RF00001;Note=SO:0000652
+CP043989.1	Infernal	rRNA	201992	204926	1.1e-05	-	.	;Name=IMOFCE_01560;Name=23S ribosomal RNA;locus_tag=IMOFCE_01560;gene=23S_rrna;product=23S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF02541;Parent=IMOFCE_01560_gene;inference=profile:Rfam:RF02541;Note=SO:0001001
+CP043989.1	Infernal	rRNA	205088	206654	2.3e-48	-	.	;Name=IMOFCE_01570;Name=16S ribosomal RNA;locus_tag=IMOFCE_01570;gene=16S_rrna;product=16S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00177;Parent=IMOFCE_01570_gene;inference=profile:Rfam:RF00177;Note=SO:0001000
+
+GCA_015139955.1.gff
+CP043991.1	Infernal	rRNA	189887	191447	1.5e-47	+	.	;Name=OACHAF_01580;Name=16S ribosomal RNA;locus_tag=OACHAF_01580;gene=16S_rrna;product=16S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00177;Parent=OACHAF_01580_gene;inference=profile:Rfam:RF00177;Note=SO:0001000
+CP043991.1	Infernal	rRNA	191636	194555	1.1e-05	+	.	;Name=OACHAF_01590;Name=23S ribosomal RNA;locus_tag=OACHAF_01590;gene=23S_rrna;product=23S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF02541;Parent=OACHAF_01590_gene;inference=profile:Rfam:RF02541;Note=SO:0001001
+CP043991.1	Infernal	rRNA	194583	194699	2.9e-11	+	.	;Name=OACHAF_01595;Name=5S ribosomal RNA;locus_tag=OACHAF_01595;gene=5S_rrna;product=5S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00001;Parent=OACHAF_01595_gene;inference=profile:Rfam:RF00001;Note=SO:0000652
+
+GCA_015256915.3.gff
+CP076101.2	cmsearch	rRNA	112872	114398	.	+	.	ID=rna-HXL38_000575;Parent=gene-HXL38_000575;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXL38_000575;product=16S ribosomal RNA
+CP076101.2	cmsearch	rRNA	115251	118347	.	+	.	ID=rna-HXL38_000600;Parent=gene-HXL38_000600;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXL38_000600;product=23S ribosomal RNA
+CP076101.2	cmsearch	rRNA	118538	118646	.	+	.	ID=rna-HXL38_000605;Parent=gene-HXL38_000605;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXL38_000605;product=5S ribosomal RNA
+CP076101.2	cmsearch	rRNA	453777	453885	.	-	.	ID=rna-HXL38_002320;Parent=gene-HXL38_002320;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXL38_002320;product=5S ribosomal RNA
+CP076101.2	cmsearch	rRNA	454076	457172	.	-	.	ID=rna-HXL38_002325;Parent=gene-HXL38_002325;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXL38_002325;product=23S ribosomal RNA
+CP076101.2	cmsearch	rRNA	458025	459551	.	-	.	ID=rna-HXL38_002340;Parent=gene-HXL38_002340;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXL38_002340;product=16S ribosomal RNA
+
+GCA_015257795.3.gff
+CP072208.2	cmsearch	rRNA	107658	109184	.	+	.	ID=rna-HXK94_000590;Parent=gene-HXK94_000590;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXK94_000590;product=16S ribosomal RNA
+CP072208.2	cmsearch	rRNA	110012	113134	.	+	.	ID=rna-HXK94_03450;Parent=gene-HXK94_03450;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXK94_03450;product=23S ribosomal RNA
+CP072208.2	cmsearch	rRNA	113325	113433	.	+	.	ID=rna-HXK94_000605;Parent=gene-HXK94_000605;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXK94_000605;product=5S ribosomal RNA
+CP072208.2	cmsearch	rRNA	455294	455402	.	-	.	ID=rna-HXK94_002385;Parent=gene-HXK94_002385;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXK94_002385;product=5S ribosomal RNA
+CP072208.2	cmsearch	rRNA	455593	458714	.	-	.	ID=rna-HXK94_03455;Parent=gene-HXK94_03455;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXK94_03455;product=23S ribosomal RNA
+CP072208.2	cmsearch	rRNA	459542	461069	.	-	.	ID=rna-HXK94_002400;Parent=gene-HXK94_002400;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXK94_002400;product=16S ribosomal RNA
+
+GCA_015697925.1.gff
+CP039370.1	Genbank	rRNA	76145	77663	.	+	.	ID=rna-E5P55_00720;Parent=gene-E5P55_00720;gbkey=rRNA;locus_tag=E5P55_00720;product=16S ribosomal RNA
+CP039370.1	Genbank	rRNA	78078	80973	.	+	.	ID=rna-E5P55_00732;Parent=gene-E5P55_00732;gbkey=rRNA;locus_tag=E5P55_00732;product=23S ribosomal RNA
+CP039370.1	Genbank	rRNA	81076	81184	.	+	.	ID=rna-E5P55_00734;Parent=gene-E5P55_00734;gbkey=rRNA;locus_tag=E5P55_00734;product=5S ribosomal RNA
+
+GCA_016699915.1.gff
+CP064990.1	cmsearch	rRNA	12292	13836	.	-	.	ID=rna-IPK86_00085;Parent=gene-IPK86_00085;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=IPK86_00085;product=16S ribosomal RNA
+CP064990.1	cmsearch	rRNA	147951	150876	.	+	.	ID=rna-IPK86_00725;Parent=gene-IPK86_00725;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=IPK86_00725;product=23S ribosomal RNA
+CP064990.1	cmsearch	rRNA	150935	151051	.	+	.	ID=rna-IPK86_00730;Parent=gene-IPK86_00730;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=IPK86_00730;product=5S ribosomal RNA
+CP064990.1	cmsearch	rRNA	186241	187788	.	-	.	ID=rna-IPK86_00915;Parent=gene-IPK86_00915;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=IPK86_00915;product=16S ribosomal RNA
+CP064990.1	cmsearch	rRNA	250558	253478	.	+	.	ID=rna-IPK86_01225;Parent=gene-IPK86_01225;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=IPK86_01225;product=23S ribosomal RNA
+CP064990.1	cmsearch	rRNA	253536	253652	.	+	.	ID=rna-IPK86_01230;Parent=gene-IPK86_01230;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=IPK86_01230;product=5S ribosomal RNA
+
+GCA_017134395.1.gff
+CP070993.1	cmsearch	rRNA	391517	392903	.	-	.	ID=rna-JXR01_02005;Parent=gene-JXR01_02005;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=JXR01_02005;product=16S ribosomal RNA
+CP070993.1	cmsearch	rRNA	402145	402250	.	-	.	ID=rna-JXR01_02060;Parent=gene-JXR01_02060;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=JXR01_02060;product=5S ribosomal RNA
+CP070993.1	cmsearch	rRNA	402573	405906	.	-	.	ID=rna-JXR01_02065;Parent=gene-JXR01_02065;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=JXR01_02065;product=23S ribosomal RNA
+
+GCA_023898665.1.gff
+CP060233.1	Genbank	rRNA	248776	250251	.	+	.	ID=rna-H6799_01430;Parent=gene-H6799_01430;gbkey=rRNA;locus_tag=H6799_01430;product=16S ribosomal RNA
+CP060233.1	Genbank	rRNA	252010	255016	.	+	.	ID=rna-H6799_01455;Parent=gene-H6799_01455;gbkey=rRNA;locus_tag=H6799_01455;product=23S ribosomal RNA
+CP060233.1	cmsearch	rRNA	255261	255368	.	+	.	ID=rna-H6799_01460;Parent=gene-H6799_01460;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=H6799_01460;product=5S ribosomal RNA
+
+GCA_024818515.1.gff
+CP094185.1	Infernal	rRNA	1	1515	3.1e-42	+	.	;Name=NCPBAO_00005;Name=(5' truncated) 16S ribosomal RNA;locus_tag=NCPBAO_00005;gene=16S_rrna;product=(5' truncated) 16S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00177;Parent=NCPBAO_00005_gene;inference=profile:Rfam:RF00177;Note=SO:0001000
+CP094185.1	Infernal	rRNA	1634	4478	9.7e-05	+	.	;Name=NCPBAO_00015;Name=23S ribosomal RNA;locus_tag=NCPBAO_00015;gene=23S_rrna;product=23S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF02541;Parent=NCPBAO_00015_gene;inference=profile:Rfam:RF02541;Note=SO:0001001
+
+GCA_025999335.1.gff
+AP024681.1	DDBJ	rRNA	185523	187039	.	-	.	ID=rna-KatS3mg097_r001;Parent=gene-KatS3mg097_r001;gbkey=rRNA;inference=COORDINATES: profile:Barrnap:0.9;locus_tag=KatS3mg097_r001;product=16S ribosomal RNA
+AP024681.1	DDBJ	rRNA	390611	393623	.	+	.	ID=rna-KatS3mg097_r002;Parent=gene-KatS3mg097_r002;gbkey=rRNA;inference=COORDINATES: profile:Barrnap:0.9;locus_tag=KatS3mg097_r002;product=23S ribosomal RNA
+
+GCA_025999395.1.gff
+AP024682.1	DDBJ	rRNA	7469	11362	.	-	.	ID=rna-KatS3mg098_r001;Parent=gene-KatS3mg098_r001;gbkey=rRNA;inference=COORDINATES: profile:Barrnap:0.9;locus_tag=KatS3mg098_r001;product=23S ribosomal RNA
+AP024682.1	DDBJ	rRNA	502237	503781	.	-	.	ID=rna-KatS3mg098_r002;Parent=gene-KatS3mg098_r002;gbkey=rRNA;inference=COORDINATES: profile:Barrnap:0.9;locus_tag=KatS3mg098_r002;product=16S ribosomal RNA
+
+GCA_026016225.1.gff
+CP061210.1	Genbank	rRNA	365915	367428	.	+	.	ID=rna-IB617_01900;Parent=gene-IB617_01900;gbkey=rRNA;locus_tag=IB617_01900;product=16S ribosomal RNA
+CP061210.1	Genbank	rRNA	376567	379559	.	+	.	ID=rna-IB617_01955;Parent=gene-IB617_01955;gbkey=rRNA;locus_tag=IB617_01955;product=23S ribosomal RNA
+CP061210.1	cmsearch	rRNA	379639	379748	.	+	.	ID=rna-IB617_01960;Parent=gene-IB617_01960;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=IB617_01960;product=5S ribosomal RNA
+
+GCA_027925225.1.gff
+AP027131.1	DDBJ	rRNA	390455	390535	.	+	.	ID=rna-HPAVJP_r0010;Parent=gene-HPAVJP_r0010;Note=aligned only 68 percent of the 5S ribosomal RNA;gbkey=rRNA;inference=COORDINATES: profile:Barrnap:0.9;locus_tag=HPAVJP_r0010;product=5S ribosomal RNA
+AP027131.1	DDBJ	rRNA	475943	478877	.	-	.	ID=rna-HPAVJP_r0020;Parent=gene-HPAVJP_r0020;gbkey=rRNA;inference=COORDINATES: profile:Barrnap:0.9;locus_tag=HPAVJP_r0020;product=23S ribosomal RNA
+AP027131.1	DDBJ	rRNA	483586	485102	.	-	.	ID=rna-HPAVJP_r0030;Parent=gene-HPAVJP_r0030;gbkey=rRNA;inference=COORDINATES: profile:Barrnap:0.9;locus_tag=HPAVJP_r0030;product=16S ribosomal RNA
+
+GCA_030060845.1.gff
+CP094379.1	cmsearch	rRNA	765203	766704	.	+	.	ID=rna-MTP17_04025;Parent=gene-MTP17_04025;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MTP17_04025;product=16S ribosomal RNA
+CP094379.1	cmsearch	rRNA	891655	894423	.	+	.	ID=rna-MTP17_04650;Parent=gene-MTP17_04650;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MTP17_04650;product=23S ribosomal RNA
+CP094379.1	cmsearch	rRNA	894543	894657	.	+	.	ID=rna-MTP17_04655;Parent=gene-MTP17_04655;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MTP17_04655;product=5S ribosomal RNA
+
+GCA_900016775.1.gff
+LN890288.1	EMBL	rRNA	587023	587139	.	-	.	ID=rna-STSPAZIEG_0490;Parent=gene-STSPAZIEG_0490;gbkey=rRNA;gene=rrf;inference=profile:RFAM:RF00001;locus_tag=STSPAZIEG_0490;product=5S ribosomal RNA
+LN890288.1	EMBL	rRNA	587244	590162	.	-	.	ID=rna-STSPAZIEG_0491;Parent=gene-STSPAZIEG_0491;gbkey=rRNA;gene=rrl;inference=profile:RFAM:RF02541;locus_tag=STSPAZIEG_0491;product=23S ribosomal RNA
+LN890288.1	EMBL	rRNA	590630	592176	.	-	.	ID=rna-STSPAZIEG_0494;Parent=gene-STSPAZIEG_0494;gbkey=rRNA;gene=rrs;inference=profile:RFAM:RF00177;locus_tag=STSPAZIEG_0494;product=16S ribosomal RNA
+
+GCA_900019315.1.gff
+LN999011.1	EMBL	rRNA	47880	49411	.	+	.	ID=rna-MHIR_TP00050;Parent=gene-MHIR_TP00050;gbkey=rRNA;gene=rrs_1;locus_tag=MHIR_TP00050;product=16S ribosomal RNA
+LN999011.1	EMBL	rRNA	49483	52344	.	+	.	ID=rna-MHIR_TP00051;Parent=gene-MHIR_TP00051;gbkey=rRNA;gene=rrl_1;locus_tag=MHIR_TP00051;product=23S ribosomal RNA
+LN999011.1	EMBL	rRNA	52361	52474	.	+	.	ID=rna-MHIR_TP00052;Parent=gene-MHIR_TP00052;gbkey=rRNA;gene=rrf_1;locus_tag=MHIR_TP00052;product=5S ribosomal RNA
+LN999011.1	EMBL	rRNA	124847	124960	.	-	.	ID=rna-MHIR_TP00151;Parent=gene-MHIR_TP00151;gbkey=rRNA;gene=rrf_2;locus_tag=MHIR_TP00151;product=5S ribosomal RNA
+LN999011.1	EMBL	rRNA	124977	127838	.	-	.	ID=rna-MHIR_TP00152;Parent=gene-MHIR_TP00152;gbkey=rRNA;gene=rrl_2;locus_tag=MHIR_TP00152;product=23S ribosomal RNA
+LN999011.1	EMBL	rRNA	127910	129441	.	-	.	ID=rna-MHIR_TP00153;Parent=gene-MHIR_TP00153;gbkey=rRNA;gene=rrs_2;locus_tag=MHIR_TP00153;product=16S ribosomal RNA
+
+GCA_944407095.1.gff
+OX097180.1	Infernal	rRNA	699845	701346	5.2e-48	+	.	;Name=HLMAEM_03600;Name=16S ribosomal RNA;locus_tag=HLMAEM_03600;gene=16S_rrna;product=16S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00177;Parent=HLMAEM_03600_gene;inference=profile:Rfam:RF00177;Note=SO:0001000
+OX097180.1	Infernal	rRNA	701845	704593	2.4e-05	+	.	;Name=HLMAEM_03610;Name=23S ribosomal RNA;locus_tag=HLMAEM_03610;gene=23S_rrna;product=23S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF02541;Parent=HLMAEM_03610_gene;inference=profile:Rfam:RF02541;Note=SO:0001001
+OX097180.1	Infernal	rRNA	704686	704800	6.2e-10	+	.	;Name=HLMAEM_03615;Name=5S ribosomal RNA;locus_tag=HLMAEM_03615;gene=5S_rrna;product=5S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00001;Parent=HLMAEM_03615_gene;inference=profile:Rfam:RF00001;Note=SO:0000652
+
+GCA_946893605.1.gff
+OX335598.1	Infernal	rRNA	75670	77196	1.2e-46	+	.	;Name=DMJLGC_00440;Name=16S ribosomal RNA;locus_tag=DMJLGC_00440;gene=16S_rrna;product=16S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00177;Parent=DMJLGC_00440_gene;inference=profile:Rfam:RF00177;Note=SO:0001000
+OX335598.1	Infernal	rRNA	79591	82708	9.6e-05	+	.	;Name=DMJLGC_00470;Name=23S ribosomal RNA;locus_tag=DMJLGC_00470;gene=23S_rrna;product=23S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF02541;Parent=DMJLGC_00470_gene;inference=profile:Rfam:RF02541;Note=SO:0001001
+OX335598.1	Infernal	rRNA	82890	82996	1.7e-05	+	.	;Name=DMJLGC_00475;Name=5S ribosomal RNA;locus_tag=DMJLGC_00475;gene=5S_rrna;product=5S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00001;Parent=DMJLGC_00475_gene;inference=profile:Rfam:RF00001;Note=SO:0000652
+
+GCF_000008605.1.gff
+NC_000919.1	cmsearch	rRNA	230101	231648	.	+	.	ID=rna-TP_RS01140;Parent=gene-TP_RS01140;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=TP_RS01140;product=16S ribosomal RNA
+NC_000919.1	cmsearch	rRNA	231944	234896	.	+	.	ID=rna-TP_RS01150;Parent=gene-TP_RS01150;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=TP_RS01150;product=23S ribosomal RNA
+NC_000919.1	cmsearch	rRNA	234945	235055	.	+	.	ID=rna-TP_RS01155;Parent=gene-TP_RS01155;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=TP_RS01155;product=5S ribosomal RNA
+NC_000919.1	cmsearch	rRNA	278534	280082	.	+	.	ID=rna-TP_RS01360;Parent=gene-TP_RS01360;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=TP_RS01360;product=16S ribosomal RNA
+NC_000919.1	cmsearch	rRNA	280388	283340	.	+	.	ID=rna-TP_RS01370;Parent=gene-TP_RS01370;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=TP_RS01370;product=23S ribosomal RNA
+NC_000919.1	cmsearch	rRNA	283389	283499	.	+	.	ID=rna-TP_RS01375;Parent=gene-TP_RS01375;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=TP_RS01375;product=5S ribosomal RNA
+
+GCF_000011745.1.gff
+NC_007292.1	cmsearch	rRNA	260447	260562	.	+	.	ID=rna-BPEN_RS01120;Parent=gene-BPEN_RS01120;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BPEN_RS01120;product=5S ribosomal RNA
+NC_007292.1	cmsearch	rRNA	680986	683973	.	-	.	ID=rna-BPEN_RS02820;Parent=gene-BPEN_RS02820;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BPEN_RS02820;product=23S ribosomal RNA
+NC_007292.1	cmsearch	rRNA	684485	686050	.	-	.	ID=rna-BPEN_RS02830;Parent=gene-BPEN_RS02830;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BPEN_RS02830;product=16S ribosomal RNA
+
+GCF_000012345.1.gff
+NC_007205.1	cmsearch	rRNA	511358	512832	.	+	.	ID=rna-SAR11_RS02640;Parent=gene-SAR11_RS02640;Dbxref=RFAM:RF00177,GeneID:66295024;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SAR11_RS02640;product=16S ribosomal RNA
+NC_007205.1	cmsearch	rRNA	513242	515995	.	+	.	ID=rna-SAR11_RS02655;Parent=gene-SAR11_RS02655;Dbxref=RFAM:RF02541,GeneID:66295027;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SAR11_RS02655;product=23S ribosomal RNA
+NC_007205.1	cmsearch	rRNA	564532	564646	.	+	.	ID=rna-SAR11_RS02905;Parent=gene-SAR11_RS02905;Dbxref=RFAM:RF00001,GeneID:66295076;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SAR11_RS02905;product=5S ribosomal RNA
+
+GCF_000013165.1.gff
+NC_007798.1	cmsearch	rRNA	36269	37765	.	+	.	ID=rna-NSE_RS00200;Parent=gene-NSE_RS00200;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NSE_RS00200;product=16S ribosomal RNA
+NC_007798.1	cmsearch	rRNA	713454	713562	.	-	.	ID=rna-NSE_RS03260;Parent=gene-NSE_RS03260;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NSE_RS03260;product=5S ribosomal RNA
+NC_007798.1	cmsearch	rRNA	713616	716393	.	-	.	ID=rna-NSE_RS03265;Parent=gene-NSE_RS03265;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NSE_RS03265;product=23S ribosomal RNA
+
+GCF_000021865.1.gff
+NC_014034.1	cmsearch	rRNA	160325	161791	.	+	.	ID=rna-RCAP_RS00745;Parent=gene-RCAP_RS00745;Dbxref=RFAM:RF00177,GeneID:31489103;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS00745;product=16S ribosomal RNA
+NC_014034.1	cmsearch	rRNA	162428	165262	.	+	.	ID=rna-RCAP_RS00760;Parent=gene-RCAP_RS00760;Dbxref=RFAM:RF02541,GeneID:31489106;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS00760;product=23S ribosomal RNA
+NC_014034.1	cmsearch	rRNA	165410	165524	.	+	.	ID=rna-RCAP_RS00765;Parent=gene-RCAP_RS00765;Dbxref=RFAM:RF00001,GeneID:31489107;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS00765;product=5S ribosomal RNA
+NC_014034.1	cmsearch	rRNA	1004091	1005557	.	+	.	ID=rna-RCAP_RS04595;Parent=gene-RCAP_RS04595;Dbxref=RFAM:RF00177,GeneID:31489854;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS04595;product=16S ribosomal RNA
+NC_014034.1	cmsearch	rRNA	1006159	1008993	.	+	.	ID=rna-RCAP_RS04610;Parent=gene-RCAP_RS04610;Dbxref=RFAM:RF02541,GeneID:31489857;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS04610;product=23S ribosomal RNA
+NC_014034.1	cmsearch	rRNA	1009141	1009255	.	+	.	ID=rna-RCAP_RS04615;Parent=gene-RCAP_RS04615;Dbxref=RFAM:RF00001,GeneID:31489858;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS04615;product=5S ribosomal RNA
+NC_014034.1	cmsearch	rRNA	1514116	1515582	.	+	.	ID=rna-RCAP_RS06950;Parent=gene-RCAP_RS06950;Dbxref=RFAM:RF00177,GeneID:31490291;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS06950;product=16S ribosomal RNA
+NC_014034.1	cmsearch	rRNA	1516183	1519017	.	+	.	ID=rna-RCAP_RS06965;Parent=gene-RCAP_RS06965;Dbxref=RFAM:RF02541,GeneID:31490294;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS06965;product=23S ribosomal RNA
+NC_014034.1	cmsearch	rRNA	1519165	1519279	.	+	.	ID=rna-RCAP_RS06970;Parent=gene-RCAP_RS06970;Dbxref=RFAM:RF00001,GeneID:31490295;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS06970;product=5S ribosomal RNA
+NC_014034.1	cmsearch	rRNA	3576919	3577033	.	-	.	ID=rna-RCAP_RS16695;Parent=gene-RCAP_RS16695;Dbxref=RFAM:RF00001,GeneID:31492157;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS16695;product=5S ribosomal RNA
+NC_014034.1	cmsearch	rRNA	3577181	3580015	.	-	.	ID=rna-RCAP_RS16700;Parent=gene-RCAP_RS16700;Dbxref=RFAM:RF02541,GeneID:31492158;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS16700;product=23S ribosomal RNA
+NC_014034.1	cmsearch	rRNA	3580652	3582118	.	-	.	ID=rna-RCAP_RS16715;Parent=gene-RCAP_RS16715;Dbxref=RFAM:RF00177,GeneID:31492161;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS16715;product=16S ribosomal RNA
+
+GCF_000027325.1.gff
+NC_000908.2	cmsearch	rRNA	170012	171529	.	+	.	ID=rna-MG_RS00775;Parent=gene-MG_RS00775;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MG_RS00775;product=16S ribosomal RNA
+NC_000908.2	cmsearch	rRNA	171729	174644	.	+	.	ID=rna-MG_RS00780;Parent=gene-MG_RS00780;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MG_RS00780;product=23S ribosomal RNA
+NC_000908.2	cmsearch	rRNA	174685	174793	.	+	.	ID=rna-MG_RS00785;Parent=gene-MG_RS00785;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MG_RS00785;product=5S ribosomal RNA
+
+GCF_000093065.1.gff
+NC_014109.1	cmsearch	rRNA	35194	35316	.	-	.	ID=rna-RIEPE_RS00180;Parent=gene-RIEPE_RS00180;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RIEPE_RS00180;product=5S ribosomal RNA
+NC_014109.1	cmsearch	rRNA	35418	38309	.	-	.	ID=rna-RIEPE_RS00185;Parent=gene-RIEPE_RS00185;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RIEPE_RS00185;product=23S ribosomal RNA
+NC_014109.1	cmsearch	rRNA	38674	40233	.	-	.	ID=rna-RIEPE_RS00200;Parent=gene-RIEPE_RS00200;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RIEPE_RS00200;product=16S ribosomal RNA
+NC_014109.1	cmsearch	rRNA	333888	334010	.	-	.	ID=rna-RIEPE_RS01445;Parent=gene-RIEPE_RS01445;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RIEPE_RS01445;product=5S ribosomal RNA
+NC_014109.1	cmsearch	rRNA	334112	337003	.	-	.	ID=rna-RIEPE_RS01450;Parent=gene-RIEPE_RS01450;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RIEPE_RS01450;product=23S ribosomal RNA
+NC_014109.1	cmsearch	rRNA	337291	338850	.	-	.	ID=rna-RIEPE_RS01460;Parent=gene-RIEPE_RS01460;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RIEPE_RS01460;product=16S ribosomal RNA
+
+GCF_000195735.1.gff
+NC_000963.1	cmsearch	rRNA	257853	260613	.	+	.	ID=rna-RP_RS01070;Parent=gene-RP_RS01070;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RP_RS01070;product=23S ribosomal RNA
+NC_000963.1	cmsearch	rRNA	260875	260989	.	+	.	ID=rna-RP_RS01075;Parent=gene-RP_RS01075;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RP_RS01075;product=5S ribosomal RNA
+NC_000963.1	cmsearch	rRNA	772263	773760	.	-	.	ID=rna-RP_RS03105;Parent=gene-RP_RS03105;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RP_RS03105;product=16S ribosomal RNA
+
+GCF_000196075.1.gff
+NC_004551.1	cmsearch	rRNA	676718	676834	.	-	.	ID=rna-TW_RS03275;Parent=gene-TW_RS03275;Dbxref=RFAM:RF00001,GeneID:67388381;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=TW_RS03275;product=5S ribosomal RNA
+NC_004551.1	cmsearch	rRNA	676891	679988	.	-	.	ID=rna-TW_RS03280;Parent=gene-TW_RS03280;Dbxref=RFAM:RF02541,GeneID:67388382;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=TW_RS03280;product=23S ribosomal RNA
+NC_004551.1	cmsearch	rRNA	680286	681807	.	-	.	ID=rna-TW_RS03285;Parent=gene-TW_RS03285;Dbxref=RFAM:RF00177,GeneID:67388383;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=TW_RS03285;product=16S ribosomal RNA
+
+GCF_000219175.1.gff
+NC_015735.1	cmsearch	rRNA	5097	5212	.	-	.	ID=rna-MEPCIT_RS00035;Parent=gene-MEPCIT_RS00035;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MEPCIT_RS00035;product=5S ribosomal RNA
+NC_015735.1	cmsearch	rRNA	5309	8225	.	-	.	ID=rna-MEPCIT_RS00040;Parent=gene-MEPCIT_RS00040;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MEPCIT_RS00040;product=23S ribosomal RNA
+NC_015735.1	cmsearch	rRNA	8736	10278	.	-	.	ID=rna-MEPCIT_RS00055;Parent=gene-MEPCIT_RS00055;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MEPCIT_RS00055;product=16S ribosomal RNA
+NC_015735.1	cmsearch	rRNA	308317	311233	.	+	.	ID=rna-MEPCIT_RS01310;Parent=gene-MEPCIT_RS01310;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MEPCIT_RS01310;product=23S ribosomal RNA
+NC_015735.1	cmsearch	rRNA	311330	311445	.	+	.	ID=rna-MEPCIT_RS01315;Parent=gene-MEPCIT_RS01315;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MEPCIT_RS01315;product=5S ribosomal RNA
+
+GCF_000247565.1.gff
+NC_016893.1	cmsearch	rRNA	143181	144736	.	+	.	ID=rna-WIGMOR_RS00670;Parent=gene-WIGMOR_RS00670;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WIGMOR_RS00670;product=16S ribosomal RNA
+NC_016893.1	cmsearch	rRNA	144983	147904	.	+	.	ID=rna-WIGMOR_RS00680;Parent=gene-WIGMOR_RS00680;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WIGMOR_RS00680;product=23S ribosomal RNA
+NC_016893.1	cmsearch	rRNA	147938	148053	.	+	.	ID=rna-WIGMOR_RS00685;Parent=gene-WIGMOR_RS00685;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WIGMOR_RS00685;product=5S ribosomal RNA
+NC_016893.1	cmsearch	rRNA	702195	702310	.	-	.	ID=rna-WIGMOR_RS03360;Parent=gene-WIGMOR_RS03360;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WIGMOR_RS03360;product=5S ribosomal RNA
+NC_016893.1	cmsearch	rRNA	702344	705265	.	-	.	ID=rna-WIGMOR_RS03365;Parent=gene-WIGMOR_RS03365;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WIGMOR_RS03365;product=23S ribosomal RNA
+NC_016893.1	cmsearch	rRNA	705512	707067	.	-	.	ID=rna-WIGMOR_RS03375;Parent=gene-WIGMOR_RS03375;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WIGMOR_RS03375;product=16S ribosomal RNA
+
+GCF_000287295.1.gff
+NC_018417.1	cmsearch	rRNA	104795	107589	.	-	.	ID=rna-A355_RS00615;Parent=gene-A355_RS00615;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A355_RS00615;product=23S ribosomal RNA
+NC_018417.1	cmsearch	rRNA	107625	109166	.	-	.	ID=rna-A355_RS00620;Parent=gene-A355_RS00620;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A355_RS00620;product=16S ribosomal RNA
+
+GCF_000304455.1.gff
+NC_018605.1	cmsearch	rRNA	187465	188988	.	-	.	ID=rna-AL022_RS00880;Parent=gene-AL022_RS00880;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=AL022_RS00880;product=16S ribosomal RNA
+NC_018605.1	cmsearch	rRNA	268588	268699	.	-	.	ID=rna-AL022_RS01180;Parent=gene-AL022_RS01180;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=AL022_RS01180;product=5S ribosomal RNA
+NC_018605.1	cmsearch	rRNA	268794	271693	.	-	.	ID=rna-AL022_RS01185;Parent=gene-AL022_RS01185;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=AL022_RS01185;product=23S ribosomal RNA
+
+GCF_000709555.1.gff
+NZ_CP006873.1	cmsearch	rRNA	249831	249943	.	-	.	ID=rna-FNIIJ_RS01265;Parent=gene-FNIIJ_RS01265;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FNIIJ_RS01265;product=5S ribosomal RNA
+NZ_CP006873.1	cmsearch	rRNA	249998	252887	.	-	.	ID=rna-FNIIJ_RS01270;Parent=gene-FNIIJ_RS01270;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FNIIJ_RS01270;product=23S ribosomal RNA
+NZ_CP006873.1	cmsearch	rRNA	253177	254727	.	-	.	ID=rna-FNIIJ_RS01285;Parent=gene-FNIIJ_RS01285;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FNIIJ_RS01285;product=16S ribosomal RNA
+
+GCF_000754265.1.gff
+NZ_CP008985.1	cmsearch	rRNA	191786	193337	.	+	.	ID=rna-IM45_RS00850;Parent=gene-IM45_RS00850;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=IM45_RS00850;product=16S ribosomal RNA
+NZ_CP008985.1	cmsearch	rRNA	193637	196541	.	+	.	ID=rna-IM45_RS00860;Parent=gene-IM45_RS00860;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=IM45_RS00860;product=23S ribosomal RNA
+NZ_CP008985.1	cmsearch	rRNA	196612	196727	.	+	.	ID=rna-IM45_RS00865;Parent=gene-IM45_RS00865;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=IM45_RS00865;product=5S ribosomal RNA
+NZ_CP008985.1	cmsearch	rRNA	572492	572607	.	-	.	ID=rna-IM45_RS02790;Parent=gene-IM45_RS02790;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=IM45_RS02790;product=5S ribosomal RNA
+NZ_CP008985.1	cmsearch	rRNA	572678	575582	.	-	.	ID=rna-IM45_RS02795;Parent=gene-IM45_RS02795;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=IM45_RS02795;product=23S ribosomal RNA
+NZ_CP008985.1	cmsearch	rRNA	575882	577433	.	-	.	ID=rna-IM45_RS02805;Parent=gene-IM45_RS02805;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=IM45_RS02805;product=16S ribosomal RNA
+
+GCF_000828515.1.gff
+NZ_AP010872.1	cmsearch	rRNA	31999	33537	.	+	.	ID=rna-ICMP_RS00140;Parent=gene-ICMP_RS00140;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ICMP_RS00140;product=16S ribosomal RNA
+NZ_AP010872.1	cmsearch	rRNA	33882	36782	.	+	.	ID=rna-ICMP_RS00155;Parent=gene-ICMP_RS00155;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ICMP_RS00155;product=23S ribosomal RNA
+NZ_AP010872.1	cmsearch	rRNA	36862	36978	.	+	.	ID=rna-ICMP_RS00160;Parent=gene-ICMP_RS00160;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ICMP_RS00160;product=5S ribosomal RNA
+NZ_AP010872.1	cmsearch	rRNA	318636	320181	.	+	.	ID=rna-ICMP_RS01410;Parent=gene-ICMP_RS01410;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ICMP_RS01410;product=16S ribosomal RNA
+NZ_AP010872.1	cmsearch	rRNA	320431	323331	.	+	.	ID=rna-ICMP_RS01415;Parent=gene-ICMP_RS01415;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ICMP_RS01415;product=23S ribosomal RNA
+NZ_AP010872.1	cmsearch	rRNA	323411	323528	.	+	.	ID=rna-ICMP_RS01420;Parent=gene-ICMP_RS01420;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ICMP_RS01420;product=5S ribosomal RNA
+NZ_AP010872.1	cmsearch	rRNA	740699	740815	.	-	.	ID=rna-ICMP_RS03260;Parent=gene-ICMP_RS03260;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ICMP_RS03260;product=5S ribosomal RNA
+NZ_AP010872.1	cmsearch	rRNA	740895	743795	.	-	.	ID=rna-ICMP_RS03265;Parent=gene-ICMP_RS03265;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ICMP_RS03265;product=23S ribosomal RNA
+NZ_AP010872.1	cmsearch	rRNA	744045	745590	.	-	.	ID=rna-ICMP_RS03270;Parent=gene-ICMP_RS03270;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ICMP_RS03270;product=16S ribosomal RNA
+
+GCF_000829155.1.gff
+NZ_AP013293.1	cmsearch	rRNA	95913	97453	.	+	.	ID=rna-SMPSPU_RS00455;Parent=gene-SMPSPU_RS00455;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=SMPSPU_RS00455;product=16S ribosomal RNA
+NZ_AP013293.1	cmsearch	rRNA	97789	100677	.	+	.	ID=rna-SMPSPU_RS00470;Parent=gene-SMPSPU_RS00470;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=SMPSPU_RS00470;product=23S ribosomal RNA
+NZ_AP013293.1	cmsearch	rRNA	100729	100838	.	+	.	ID=rna-SMPSPU_RS00475;Parent=gene-SMPSPU_RS00475;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=SMPSPU_RS00475;product=5S ribosomal RNA
+
+GCF_000931575.1.gff
+NZ_CP007470.1	cmsearch	rRNA	1	2057	.	+	.	ID=rna-NTHI477_RS00005;Parent=gene-NTHI477_RS00005;Dbxref=RFAM:RF02541,GeneID:72525061;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS00005;product=23S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	2300	2415	.	+	.	ID=rna-NTHI477_RS00010;Parent=gene-NTHI477_RS00010;Dbxref=RFAM:RF00001,GeneID:72525062;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS00010;product=5S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1012378	1012493	.	-	.	ID=rna-NTHI477_RS04855;Parent=gene-NTHI477_RS04855;Dbxref=RFAM:RF00001,GeneID:72526000;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS04855;product=5S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1012736	1015851	.	-	.	ID=rna-NTHI477_RS04860;Parent=gene-NTHI477_RS04860;Dbxref=RFAM:RF02541,GeneID:72526001;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS04860;product=23S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1016573	1018112	.	-	.	ID=rna-NTHI477_RS04875;Parent=gene-NTHI477_RS04875;Dbxref=RFAM:RF00177,GeneID:72526004;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS04875;product=16S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1045784	1045899	.	-	.	ID=rna-NTHI477_RS05015;Parent=gene-NTHI477_RS05015;Dbxref=RFAM:RF00001,GeneID:72526032;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS05015;product=5S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1045948	1046063	.	-	.	ID=rna-NTHI477_RS05020;Parent=gene-NTHI477_RS05020;Dbxref=RFAM:RF00001,GeneID:72526033;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS05020;product=5S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1046306	1049421	.	-	.	ID=rna-NTHI477_RS05025;Parent=gene-NTHI477_RS05025;Dbxref=RFAM:RF02541,GeneID:72526034;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS05025;product=23S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1050143	1051682	.	-	.	ID=rna-NTHI477_RS05040;Parent=gene-NTHI477_RS05040;Dbxref=RFAM:RF00177,GeneID:72526037;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS05040;product=16S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1186343	1186458	.	-	.	ID=rna-NTHI477_RS05645;Parent=gene-NTHI477_RS05645;Dbxref=RFAM:RF00001,GeneID:72526156;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS05645;product=5S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1186658	1189554	.	-	.	ID=rna-NTHI477_RS05650;Parent=gene-NTHI477_RS05650;Dbxref=RFAM:RF02541,GeneID:72526157;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS05650;product=23S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1190031	1191570	.	-	.	ID=rna-NTHI477_RS05665;Parent=gene-NTHI477_RS05665;Dbxref=RFAM:RF00177,GeneID:72526159;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS05665;product=16S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1302780	1302895	.	-	.	ID=rna-NTHI477_RS06220;Parent=gene-NTHI477_RS06220;Dbxref=RFAM:RF00001,GeneID:72526270;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS06220;product=5S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1303140	1306253	.	-	.	ID=rna-NTHI477_RS06225;Parent=gene-NTHI477_RS06225;Dbxref=RFAM:RF02541,GeneID:72526271;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS06225;product=23S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1306731	1308270	.	-	.	ID=rna-NTHI477_RS06235;Parent=gene-NTHI477_RS06235;Dbxref=RFAM:RF00177,GeneID:72526273;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS06235;product=16S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1732997	1734536	.	+	.	ID=rna-NTHI477_RS08475;Parent=gene-NTHI477_RS08475;Dbxref=RFAM:RF00177,GeneID:72526714;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS08475;product=16S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1735014	1738129	.	+	.	ID=rna-NTHI477_RS08485;Parent=gene-NTHI477_RS08485;Dbxref=RFAM:RF02541,GeneID:72526716;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS08485;product=23S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1738374	1738489	.	+	.	ID=rna-NTHI477_RS08490;Parent=gene-NTHI477_RS08490;Dbxref=RFAM:RF00001,GeneID:72526717;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS08490;product=5S ribosomal RNA
+NZ_CP007470.1	cmsearch	rRNA	1842940	1844479	.	+	.	ID=rna-NTHI477_RS09040;Parent=gene-NTHI477_RS09040;Dbxref=RFAM:RF00177,GeneID:72526824;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS09040;product=16S ribosomal RNA
+
+GCF_000974825.1.gff
+NZ_CP010443.1	cmsearch	rRNA	58079	59620	.	+	.	ID=rna-SH04_RS00275;Parent=gene-SH04_RS00275;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS00275;product=16S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	59975	62878	.	+	.	ID=rna-SH04_RS00285;Parent=gene-SH04_RS00285;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS00285;product=23S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	62973	63088	.	+	.	ID=rna-SH04_RS00290;Parent=gene-SH04_RS00290;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS00290;product=5S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	151802	153343	.	+	.	ID=rna-SH04_RS00735;Parent=gene-SH04_RS00735;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS00735;product=16S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	153790	156694	.	+	.	ID=rna-SH04_RS00750;Parent=gene-SH04_RS00750;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS00750;product=23S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	156790	156905	.	+	.	ID=rna-SH04_RS00755;Parent=gene-SH04_RS00755;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS00755;product=5S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	282928	284469	.	+	.	ID=rna-SH04_RS01355;Parent=gene-SH04_RS01355;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS01355;product=16S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	284824	287725	.	+	.	ID=rna-SH04_RS01365;Parent=gene-SH04_RS01365;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS01365;product=23S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	287820	287935	.	+	.	ID=rna-SH04_RS01370;Parent=gene-SH04_RS01370;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS01370;product=5S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	324328	325869	.	+	.	ID=rna-SH04_RS01565;Parent=gene-SH04_RS01565;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS01565;product=16S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	326224	329127	.	+	.	ID=rna-SH04_RS01575;Parent=gene-SH04_RS01575;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS01575;product=23S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	329223	329338	.	+	.	ID=rna-SH04_RS01580;Parent=gene-SH04_RS01580;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS01580;product=5S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	984194	985735	.	+	.	ID=rna-SH04_RS04745;Parent=gene-SH04_RS04745;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS04745;product=16S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	986182	989085	.	+	.	ID=rna-SH04_RS04760;Parent=gene-SH04_RS04760;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS04760;product=23S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	989181	989296	.	+	.	ID=rna-SH04_RS04765;Parent=gene-SH04_RS04765;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS04765;product=5S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	3462038	3462153	.	-	.	ID=rna-SH04_RS17085;Parent=gene-SH04_RS17085;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS17085;product=5S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	3462248	3465151	.	-	.	ID=rna-SH04_RS17090;Parent=gene-SH04_RS17090;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS17090;product=23S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	3465583	3467124	.	-	.	ID=rna-SH04_RS17100;Parent=gene-SH04_RS17100;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS17100;product=16S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	4144579	4144694	.	-	.	ID=rna-SH04_RS20500;Parent=gene-SH04_RS20500;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS20500;product=5S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	4144824	4144939	.	-	.	ID=rna-SH04_RS20510;Parent=gene-SH04_RS20510;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS20510;product=5S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	4145034	4147937	.	-	.	ID=rna-SH04_RS20515;Parent=gene-SH04_RS20515;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS20515;product=23S ribosomal RNA
+NZ_CP010443.1	cmsearch	rRNA	4148375	4149916	.	-	.	ID=rna-SH04_RS20530;Parent=gene-SH04_RS20530;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS20530;product=16S ribosomal RNA
+
+GCF_001242845.1.gff
+NZ_LN774881.1	cmsearch	rRNA	50928	53941	.	+	.	ID=rna-WEOB_RS00225;Parent=gene-WEOB_RS00225;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=WEOB_RS00225;product=23S ribosomal RNA
+NZ_LN774881.1	cmsearch	rRNA	54024	54139	.	+	.	ID=rna-WEOB_RS00230;Parent=gene-WEOB_RS00230;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=WEOB_RS00230;product=5S ribosomal RNA
+NZ_LN774881.1	cmsearch	rRNA	134981	136560	.	+	.	ID=rna-WEOB_RS00605;Parent=gene-WEOB_RS00605;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=WEOB_RS00605;product=16S ribosomal RNA
+
+GCF_001269425.1.gff
+NZ_CP011787.1	cmsearch	rRNA	151735	153289	.	+	.	ID=rna-AB162_RS00640;Parent=gene-AB162_RS00640;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=AB162_RS00640;product=16S ribosomal RNA
+NZ_CP011787.1	cmsearch	rRNA	153610	156545	.	+	.	ID=rna-AB162_RS00650;Parent=gene-AB162_RS00650;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=AB162_RS00650;product=23S ribosomal RNA
+NZ_CP011787.1	cmsearch	rRNA	156582	156698	.	+	.	ID=rna-AB162_RS00655;Parent=gene-AB162_RS00655;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=AB162_RS00655;product=5S ribosomal RNA
+NZ_CP011787.1	cmsearch	rRNA	461473	461589	.	-	.	ID=rna-AB162_RS02175;Parent=gene-AB162_RS02175;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=AB162_RS02175;product=5S ribosomal RNA
+NZ_CP011787.1	cmsearch	rRNA	461626	464561	.	-	.	ID=rna-AB162_RS02180;Parent=gene-AB162_RS02180;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=AB162_RS02180;product=23S ribosomal RNA
+NZ_CP011787.1	cmsearch	rRNA	464778	466332	.	-	.	ID=rna-AB162_RS02185;Parent=gene-AB162_RS02185;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=AB162_RS02185;product=16S ribosomal RNA
+
+GCF_002119845.1.gff
+NZ_CP020906.1	cmsearch	rRNA	62590	64070	.	+	.	ID=rna-NXC12_RS00305;Parent=gene-NXC12_RS00305;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NXC12_RS00305;product=16S ribosomal RNA
+NZ_CP020906.1	cmsearch	rRNA	65131	68008	.	+	.	ID=rna-NXC12_RS00320;Parent=gene-NXC12_RS00320;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NXC12_RS00320;product=23S ribosomal RNA
+NZ_CP020906.1	cmsearch	rRNA	68208	68322	.	+	.	ID=rna-NXC12_RS00325;Parent=gene-NXC12_RS00325;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NXC12_RS00325;product=5S ribosomal RNA
+NZ_CP020906.1	cmsearch	rRNA	3487615	3487729	.	-	.	ID=rna-NXC12_RS17355;Parent=gene-NXC12_RS17355;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NXC12_RS17355;product=5S ribosomal RNA
+NZ_CP020906.1	cmsearch	rRNA	3487929	3490806	.	-	.	ID=rna-NXC12_RS17360;Parent=gene-NXC12_RS17360;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NXC12_RS17360;product=23S ribosomal RNA
+NZ_CP020906.1	cmsearch	rRNA	3491867	3493347	.	-	.	ID=rna-NXC12_RS17375;Parent=gene-NXC12_RS17375;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NXC12_RS17375;product=16S ribosomal RNA
+NZ_CP020906.1	cmsearch	rRNA	3884734	3884848	.	-	.	ID=rna-NXC12_RS19150;Parent=gene-NXC12_RS19150;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NXC12_RS19150;product=5S ribosomal RNA
+NZ_CP020906.1	cmsearch	rRNA	3885048	3887925	.	-	.	ID=rna-NXC12_RS19155;Parent=gene-NXC12_RS19155;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NXC12_RS19155;product=23S ribosomal RNA
+NZ_CP020906.1	cmsearch	rRNA	3888986	3890466	.	-	.	ID=rna-NXC12_RS19170;Parent=gene-NXC12_RS19170;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NXC12_RS19170;product=16S ribosomal RNA
+
+GCF_002776555.1.gff
+NZ_CP021497.1	cmsearch	rRNA	413496	415058	.	+	.	ID=rna-CCU22_RS02050;Parent=gene-CCU22_RS02050;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=CCU22_RS02050;product=16S ribosomal RNA
+NZ_CP021497.1	cmsearch	rRNA	415321	418339	.	+	.	ID=rna-CCU22_RS02060;Parent=gene-CCU22_RS02060;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=CCU22_RS02060;product=23S ribosomal RNA
+NZ_CP021497.1	cmsearch	rRNA	418424	418539	.	+	.	ID=rna-CCU22_RS02065;Parent=gene-CCU22_RS02065;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=CCU22_RS02065;product=5S ribosomal RNA
+
+GCF_002777075.1.gff
+NZ_CP017742.1	cmsearch	rRNA	860298	861850	.	+	.	ID=rna-BKB91_RS04040;Parent=gene-BKB91_RS04040;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BKB91_RS04040;product=16S ribosomal RNA
+NZ_CP017742.1	cmsearch	rRNA	862099	865035	.	+	.	ID=rna-BKB91_RS04045;Parent=gene-BKB91_RS04045;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BKB91_RS04045;product=23S ribosomal RNA
+NZ_CP017742.1	cmsearch	rRNA	865155	865269	.	+	.	ID=rna-BKB91_RS04050;Parent=gene-BKB91_RS04050;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BKB91_RS04050;product=5S ribosomal RNA
+NZ_CP017742.1	cmsearch	rRNA	882344	883896	.	+	.	ID=rna-BKB91_RS04110;Parent=gene-BKB91_RS04110;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BKB91_RS04110;product=16S ribosomal RNA
+NZ_CP017742.1	cmsearch	rRNA	884145	887081	.	+	.	ID=rna-BKB91_RS04115;Parent=gene-BKB91_RS04115;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BKB91_RS04115;product=23S ribosomal RNA
+NZ_CP017742.1	cmsearch	rRNA	887201	887315	.	+	.	ID=rna-BKB91_RS04120;Parent=gene-BKB91_RS04120;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BKB91_RS04120;product=5S ribosomal RNA
+
+GCF_002849995.1.gff
+NZ_CP016343.1	cmsearch	rRNA	131784	133320	.	+	.	ID=rna-BBB03_RS00610;Parent=gene-BBB03_RS00610;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BBB03_RS00610;product=16S ribosomal RNA
+NZ_CP016343.1	cmsearch	rRNA	133576	136471	.	+	.	ID=rna-BBB03_RS00620;Parent=gene-BBB03_RS00620;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BBB03_RS00620;product=23S ribosomal RNA
+NZ_CP016343.1	cmsearch	rRNA	136498	136614	.	+	.	ID=rna-BBB03_RS00625;Parent=gene-BBB03_RS00625;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BBB03_RS00625;product=5S ribosomal RNA
+
+GCF_004296475.1.gff
+NZ_AP018162.1	cmsearch	rRNA	38342	38479	.	-	.	ID=rna-NARSGI1_RS00180;Parent=gene-NARSGI1_RS00180;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=NARSGI1_RS00180;product=5S ribosomal RNA
+NZ_AP018162.1	cmsearch	rRNA	38501	41434	.	-	.	ID=rna-NARSGI1_RS00185;Parent=gene-NARSGI1_RS00185;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=NARSGI1_RS00185;product=23S ribosomal RNA
+NZ_AP018162.1	cmsearch	rRNA	41583	43181	.	-	.	ID=rna-NARSGI1_RS00195;Parent=gene-NARSGI1_RS00195;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=NARSGI1_RS00195;product=16S ribosomal RNA
+NZ_AP018162.1	cmsearch	rRNA	223595	225193	.	+	.	ID=rna-NARSGI1_RS01290;Parent=gene-NARSGI1_RS01290;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=NARSGI1_RS01290;product=16S ribosomal RNA
+NZ_AP018162.1	cmsearch	rRNA	225410	228343	.	+	.	ID=rna-NARSGI1_RS01305;Parent=gene-NARSGI1_RS01305;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=NARSGI1_RS01305;product=23S ribosomal RNA
+NZ_AP018162.1	cmsearch	rRNA	228365	228502	.	+	.	ID=rna-NARSGI1_RS01310;Parent=gene-NARSGI1_RS01310;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=NARSGI1_RS01310;product=5S ribosomal RNA
+
+GCF_005080705.1.gff
+NZ_CP032996.1	cmsearch	rRNA	187644	189201	.	+	.	ID=rna-D9V81_RS00850;Parent=gene-D9V81_RS00850;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=D9V81_RS00850;product=16S ribosomal RNA
+NZ_CP032996.1	cmsearch	rRNA	347947	348062	.	-	.	ID=rna-D9V81_RS01660;Parent=gene-D9V81_RS01660;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=D9V81_RS01660;product=5S ribosomal RNA
+NZ_CP032996.1	cmsearch	rRNA	348102	351007	.	-	.	ID=rna-D9V81_RS01665;Parent=gene-D9V81_RS01665;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=D9V81_RS01665;product=23S ribosomal RNA
+
+GCF_009883795.1.gff
+NZ_CP033868.1	cmsearch	rRNA	302769	304320	.	+	.	ID=rna-EGQ50_RS01360;Parent=gene-EGQ50_RS01360;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EGQ50_RS01360;product=16S ribosomal RNA
+NZ_CP033868.1	cmsearch	rRNA	304796	307791	.	+	.	ID=rna-EGQ50_RS01375;Parent=gene-EGQ50_RS01375;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EGQ50_RS01375;product=23S ribosomal RNA
+NZ_CP033868.1	cmsearch	rRNA	307977	308091	.	+	.	ID=rna-EGQ50_RS01380;Parent=gene-EGQ50_RS01380;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EGQ50_RS01380;product=5S ribosomal RNA
+
+GCF_012562765.1.gff
+NZ_CP046226.1	cmsearch	rRNA	646	2205	.	+	.	ID=rna-GJT83_RS00010;Parent=gene-GJT83_RS00010;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT83_RS00010;product=16S ribosomal RNA
+NZ_CP046226.1	cmsearch	rRNA	2373	5321	.	+	.	ID=rna-GJT83_RS00015;Parent=gene-GJT83_RS00015;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT83_RS00015;product=23S ribosomal RNA
+NZ_CP046226.1	cmsearch	rRNA	5386	5501	.	+	.	ID=rna-GJT83_RS00020;Parent=gene-GJT83_RS00020;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT83_RS00020;product=5S ribosomal RNA
+NZ_CP046226.1	cmsearch	rRNA	387289	387404	.	-	.	ID=rna-GJT83_RS01880;Parent=gene-GJT83_RS01880;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT83_RS01880;product=5S ribosomal RNA
+NZ_CP046226.1	cmsearch	rRNA	387469	390417	.	-	.	ID=rna-GJT83_RS01885;Parent=gene-GJT83_RS01885;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT83_RS01885;product=23S ribosomal RNA
+NZ_CP046226.1	cmsearch	rRNA	390585	392144	.	-	.	ID=rna-GJT83_RS01890;Parent=gene-GJT83_RS01890;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT83_RS01890;product=16S ribosomal RNA
+
+GCF_012571345.1.gff
+NZ_CP046218.1	cmsearch	rRNA	652	2209	.	+	.	ID=rna-GJT87_RS00010;Parent=gene-GJT87_RS00010;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT87_RS00010;product=16S ribosomal RNA
+NZ_CP046218.1	cmsearch	rRNA	2468	5402	.	+	.	ID=rna-GJT87_RS00020;Parent=gene-GJT87_RS00020;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT87_RS00020;product=23S ribosomal RNA
+NZ_CP046218.1	cmsearch	rRNA	5492	5607	.	+	.	ID=rna-GJT87_RS00025;Parent=gene-GJT87_RS00025;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT87_RS00025;product=5S ribosomal RNA
+NZ_CP046218.1	cmsearch	rRNA	357646	357761	.	-	.	ID=rna-GJT87_RS01780;Parent=gene-GJT87_RS01780;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT87_RS01780;product=5S ribosomal RNA
+NZ_CP046218.1	cmsearch	rRNA	357851	360785	.	-	.	ID=rna-GJT87_RS01785;Parent=gene-GJT87_RS01785;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT87_RS01785;product=23S ribosomal RNA
+NZ_CP046218.1	cmsearch	rRNA	360968	362525	.	-	.	ID=rna-GJT87_RS01790;Parent=gene-GJT87_RS01790;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT87_RS01790;product=16S ribosomal RNA
+
+GCF_013030075.1.gff
+NZ_AP023069.1	cmsearch	rRNA	1200957	1201070	.	-	.	ID=rna-HT085_RS06325;Parent=gene-HT085_RS06325;Dbxref=RFAM:RF00001,GeneID:66753505;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS06325;product=5S ribosomal RNA
+NZ_AP023069.1	cmsearch	rRNA	1201167	1204058	.	-	.	ID=rna-HT085_RS06330;Parent=gene-HT085_RS06330;Dbxref=RFAM:RF02541,GeneID:66753506;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS06330;product=23S ribosomal RNA
+NZ_AP023069.1	cmsearch	rRNA	1204664	1206204	.	-	.	ID=rna-HT085_RS06345;Parent=gene-HT085_RS06345;Dbxref=RFAM:RF00177,GeneID:66753509;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS06345;product=16S ribosomal RNA
+NZ_AP023069.1	cmsearch	rRNA	1581755	1581868	.	-	.	ID=rna-HT085_RS08300;Parent=gene-HT085_RS08300;Dbxref=RFAM:RF00001,GeneID:66753894;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS08300;product=5S ribosomal RNA
+NZ_AP023069.1	cmsearch	rRNA	1581965	1584856	.	-	.	ID=rna-HT085_RS08305;Parent=gene-HT085_RS08305;Dbxref=RFAM:RF02541,GeneID:66753895;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS08305;product=23S ribosomal RNA
+NZ_AP023069.1	cmsearch	rRNA	1585462	1587002	.	-	.	ID=rna-HT085_RS08320;Parent=gene-HT085_RS08320;Dbxref=RFAM:RF00177,GeneID:66753898;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS08320;product=16S ribosomal RNA
+NZ_AP023069.1	cmsearch	rRNA	1663150	1663263	.	-	.	ID=rna-HT085_RS08735;Parent=gene-HT085_RS08735;Dbxref=RFAM:RF00001,GeneID:66753980;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS08735;product=5S ribosomal RNA
+NZ_AP023069.1	cmsearch	rRNA	1663360	1666251	.	-	.	ID=rna-HT085_RS08740;Parent=gene-HT085_RS08740;Dbxref=RFAM:RF02541,GeneID:66753981;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS08740;product=23S ribosomal RNA
+NZ_AP023069.1	cmsearch	rRNA	1666857	1668397	.	-	.	ID=rna-HT085_RS08755;Parent=gene-HT085_RS08755;Dbxref=RFAM:RF00177,GeneID:66753984;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS08755;product=16S ribosomal RNA
+NZ_AP023069.1	cmsearch	rRNA	1890008	1891548	.	+	.	ID=rna-HT085_RS09925;Parent=gene-HT085_RS09925;Dbxref=RFAM:RF00177,GeneID:66754214;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS09925;product=16S ribosomal RNA
+NZ_AP023069.1	cmsearch	rRNA	1892154	1895045	.	+	.	ID=rna-HT085_RS09940;Parent=gene-HT085_RS09940;Dbxref=RFAM:RF02541,GeneID:66754217;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS09940;product=23S ribosomal RNA
+NZ_AP023069.1	cmsearch	rRNA	1895142	1895255	.	+	.	ID=rna-HT085_RS09945;Parent=gene-HT085_RS09945;Dbxref=RFAM:RF00001,GeneID:66754218;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS09945;product=5S ribosomal RNA
+
+GCF_013463375.1.gff
+NZ_CP041245.1	cmsearch	rRNA	120812	120920	.	-	.	ID=rna-FK493_RS00790;Parent=gene-FK493_RS00790;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FK493_RS00790;product=5S ribosomal RNA
+NZ_CP041245.1	cmsearch	rRNA	120940	123820	.	-	.	ID=rna-FK493_RS00795;Parent=gene-FK493_RS00795;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FK493_RS00795;product=23S ribosomal RNA
+NZ_CP041245.1	cmsearch	rRNA	123975	125529	.	-	.	ID=rna-FK493_RS00800;Parent=gene-FK493_RS00800;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FK493_RS00800;product=16S ribosomal RNA
+
+GCF_013463555.1.gff
+NZ_CP041281.1	cmsearch	rRNA	126056	127596	.	+	.	ID=rna-FK495_RS00640;Parent=gene-FK495_RS00640;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=FK495_RS00640;product=16S ribosomal RNA
+NZ_CP041281.1	cmsearch	rRNA	127746	130632	.	+	.	ID=rna-FK495_RS00645;Parent=gene-FK495_RS00645;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=FK495_RS00645;product=23S ribosomal RNA
+NZ_CP041281.1	cmsearch	rRNA	130702	130814	.	+	.	ID=rna-FK495_RS00650;Parent=gene-FK495_RS00650;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=FK495_RS00650;product=5S ribosomal RNA
+
+GCF_014251515.1.gff
+NZ_CP059188.1	Infernal	rRNA	362526	362635	4.1e-11	-	.	;Name=FCDFLE_01685;Name=5S ribosomal RNA;locus_tag=FCDFLE_01685;gene=5S_rrna;product=5S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00001;Parent=FCDFLE_01685_gene;inference=profile:Rfam:RF00001;Note=SO:0000652
+NZ_CP059188.1	Infernal	rRNA	362683	365570	2.7e-05	-	.	;Name=FCDFLE_01690;Name=23S ribosomal RNA;locus_tag=FCDFLE_01690;gene=23S_rrna;product=23S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF02541;Parent=FCDFLE_01690_gene;inference=profile:Rfam:RF02541;Note=SO:0001001
+NZ_CP059188.1	Infernal	rRNA	365871	367408	1.1e-46	-	.	;Name=FCDFLE_01705;Name=16S ribosomal RNA;locus_tag=FCDFLE_01705;gene=16S_rrna;product=16S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00177;Parent=FCDFLE_01705_gene;inference=profile:Rfam:RF00177;Note=SO:0001000
+
+GCF_014251975.1.gff
+NZ_CP059204.1	Infernal	rRNA	282503	282613	1.5e-10	-	.	;Name=IJMHED_01370;Name=5S ribosomal RNA;locus_tag=IJMHED_01370;gene=5S_rrna;product=5S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00001;Parent=IJMHED_01370_gene;inference=profile:Rfam:RF00001;Note=SO:0000652
+NZ_CP059204.1	Infernal	rRNA	282721	285638	3e-05	-	.	;Name=IJMHED_01375;Name=23S ribosomal RNA;locus_tag=IJMHED_01375;gene=23S_rrna;product=23S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF02541;Parent=IJMHED_01375_gene;inference=profile:Rfam:RF02541;Note=SO:0001001
+NZ_CP059204.1	Infernal	rRNA	285924	287463	1.6e-46	-	.	;Name=IJMHED_01390;Name=16S ribosomal RNA;locus_tag=IJMHED_01390;gene=16S_rrna;product=16S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00177;Parent=IJMHED_01390_gene;inference=profile:Rfam:RF00177;Note=SO:0001000
+
+GCF_016889585.1.gff
+NZ_CP069645.1	Infernal	rRNA	61824	61933	1.1e-12	-	.	;Name=EBJJNC_00355;Name=5S ribosomal RNA;locus_tag=EBJJNC_00355;gene=5S_rrna;product=5S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00001;Parent=EBJJNC_00355_gene;inference=profile:Rfam:RF00001;Note=SO:0000652
+NZ_CP069645.1	Infernal	rRNA	61985	64860	1.2e-05	-	.	;Name=EBJJNC_00360;Name=23S ribosomal RNA;locus_tag=EBJJNC_00360;gene=23S_rrna;product=23S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF02541;Parent=EBJJNC_00360_gene;inference=profile:Rfam:RF02541;Note=SO:0001001
+NZ_CP069645.1	Infernal	rRNA	65034	66570	2.3e-45	-	.	;Name=EBJJNC_00375;Name=16S ribosomal RNA;locus_tag=EBJJNC_00375;gene=16S_rrna;product=16S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00177;Parent=EBJJNC_00375_gene;inference=profile:Rfam:RF00177;Note=SO:0001000
+
+GCF_017656055.1.gff
+NZ_CP069383.1	cmsearch	rRNA	25853	27457	.	+	.	ID=rna-JRY34_RS00130;Parent=gene-JRY34_RS00130;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=JRY34_RS00130;product=16S ribosomal RNA
+NZ_CP069383.1	cmsearch	rRNA	27639	30582	.	+	.	ID=rna-JRY34_RS00140;Parent=gene-JRY34_RS00140;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=JRY34_RS00140;product=23S ribosomal RNA
+NZ_CP069383.1	cmsearch	rRNA	30620	30749	.	+	.	ID=rna-JRY34_RS00145;Parent=gene-JRY34_RS00145;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=JRY34_RS00145;product=5S ribosomal RNA
+
+GCF_019669085.1.gff
+NZ_AP024401.1	cmsearch	rRNA	442429	442539	.	-	.	ID=rna-K5563_RS02065;Parent=gene-K5563_RS02065;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=K5563_RS02065;product=5S ribosomal RNA
+NZ_AP024401.1	cmsearch	rRNA	442567	445502	.	-	.	ID=rna-K5563_RS02070;Parent=gene-K5563_RS02070;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=K5563_RS02070;product=23S ribosomal RNA
+NZ_AP024401.1	cmsearch	rRNA	451283	452819	.	-	.	ID=rna-K5563_RS02110;Parent=gene-K5563_RS02110;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=K5563_RS02110;product=16S ribosomal RNA
+
+GCF_019923565.1.gff
+NZ_CP074435.1	cmsearch	rRNA	561945	562061	.	-	.	ID=rna-KEC37_RS02880;Parent=gene-KEC37_RS02880;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=KEC37_RS02880;product=5S ribosomal RNA
+NZ_CP074435.1	cmsearch	rRNA	562098	565024	.	-	.	ID=rna-KEC37_RS02885;Parent=gene-KEC37_RS02885;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=KEC37_RS02885;product=23S ribosomal RNA
+NZ_CP074435.1	cmsearch	rRNA	565313	566869	.	-	.	ID=rna-KEC37_RS02900;Parent=gene-KEC37_RS02900;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=KEC37_RS02900;product=16S ribosomal RNA
+
+GCF_020541245.1.gff
+NZ_CP045876.1	cmsearch	rRNA	286680	286795	.	-	.	ID=rna-GFK87_RS01520;Parent=gene-GFK87_RS01520;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GFK87_RS01520;product=5S ribosomal RNA
+NZ_CP045876.1	cmsearch	rRNA	286835	289839	.	-	.	ID=rna-GFK87_RS01525;Parent=gene-GFK87_RS01525;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GFK87_RS01525;product=23S ribosomal RNA
+NZ_CP045876.1	cmsearch	rRNA	290071	291957	.	-	.	ID=rna-GFK87_RS01540;Parent=gene-GFK87_RS01540;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GFK87_RS01540;product=16S ribosomal RNA
+
+GCF_021222645.1.gff
+NZ_CP089520.1	cmsearch	rRNA	70720	72246	.	+	.	ID=rna-LR957_RS00360;Parent=gene-LR957_RS00360;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=LR957_RS00360;product=16S ribosomal RNA
+NZ_CP089520.1	cmsearch	rRNA	74641	78027	.	+	.	ID=rna-LR957_RS00390;Parent=gene-LR957_RS00390;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=LR957_RS00390;product=23S ribosomal RNA
+NZ_CP089520.1	cmsearch	rRNA	78209	78317	.	+	.	ID=rna-LR957_RS00395;Parent=gene-LR957_RS00395;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=LR957_RS00395;product=5S ribosomal RNA
+
+GCF_024205245.1.gff
+NZ_CP084934.1	Infernal	rRNA	307511	309056	8.3e-49	+	.	;Name=IJMIMI_01370;Name=16S ribosomal RNA;locus_tag=IJMIMI_01370;gene=16S_rrna;product=16S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00177;Parent=IJMIMI_01370_gene;inference=profile:Rfam:RF00177;Note=SO:0001000
+NZ_CP084934.1	Infernal	rRNA	570321	570436	5.9e-10	-	.	;Name=IJMIMI_02595;Name=5S ribosomal RNA;locus_tag=IJMIMI_02595;gene=5S_rrna;product=5S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF00001;Parent=IJMIMI_02595_gene;inference=profile:Rfam:RF00001;Note=SO:0000652
+NZ_CP084934.1	Infernal	rRNA	570541	573456	1.6e-05	-	.	;Name=IJMIMI_02600;Name=23S ribosomal RNA;locus_tag=IJMIMI_02600;gene=23S_rrna;product=23S ribosomal RNA;Dbxref=GO:0005840,GO:0003735,RFAM:RF02541;Parent=IJMIMI_02600_gene;inference=profile:Rfam:RF02541;Note=SO:0001001
+
+GCF_025021925.1.gff
+NZ_CP092368.1	cmsearch	rRNA	6825	6932	.	-	.	ID=rna-MC061_RS00055;Parent=gene-MC061_RS00055;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=MC061_RS00055;product=5S ribosomal RNA
+NZ_CP092368.1	cmsearch	rRNA	7000	9769	.	-	.	ID=rna-MC061_RS00060;Parent=gene-MC061_RS00060;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=MC061_RS00060;product=23S ribosomal RNA
+NZ_CP092368.1	cmsearch	rRNA	518427	519923	.	+	.	ID=rna-MC061_RS02385;Parent=gene-MC061_RS02385;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=MC061_RS02385;product=16S ribosomal RNA
+
+GCF_026644375.1.gff
+NZ_CP075447.1	cmsearch	rRNA	435593	435703	.	-	.	ID=rna-KJC72_RS02075;Parent=gene-KJC72_RS02075;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=KJC72_RS02075;product=5S ribosomal RNA
+NZ_CP075447.1	cmsearch	rRNA	435726	438654	.	-	.	ID=rna-KJC72_RS02080;Parent=gene-KJC72_RS02080;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=KJC72_RS02080;product=23S ribosomal RNA
+NZ_CP075447.1	cmsearch	rRNA	441651	443159	.	-	.	ID=rna-KJC72_RS02100;Parent=gene-KJC72_RS02100;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=KJC72_RS02100;product=16S ribosomal RNA
+NZ_CP075447.1	cmsearch	rRNA	443558	445093	.	-	.	ID=rna-KJC72_RS02110;Parent=gene-KJC72_RS02110;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=KJC72_RS02110;product=16S ribosomal RNA
+
+GCF_028856405.1.gff
+NZ_CP110497.1	cmsearch	rRNA	357354	357467	.	-	.	ID=rna-ONB70_RS01820;Parent=gene-ONB70_RS01820;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ONB70_RS01820;product=5S ribosomal RNA
+NZ_CP110497.1	cmsearch	rRNA	476320	477880	.	+	.	ID=rna-ONB70_RS02395;Parent=gene-ONB70_RS02395;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ONB70_RS02395;product=16S ribosomal RNA
+NZ_CP110497.1	cmsearch	rRNA	478097	481011	.	+	.	ID=rna-ONB70_RS02405;Parent=gene-ONB70_RS02405;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ONB70_RS02405;product=23S ribosomal RNA
+
+GCF_900039485.1.gff
+NZ_LN999833.1	cmsearch	rRNA	481127	482668	.	+	.	ID=rna-A4A68_RS01735;Parent=gene-A4A68_RS01735;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A68_RS01735;product=16S ribosomal RNA
+NZ_LN999833.1	cmsearch	rRNA	523193	523308	.	-	.	ID=rna-A4A68_RS01900;Parent=gene-A4A68_RS01900;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A68_RS01900;product=5S ribosomal RNA
+NZ_LN999833.1	cmsearch	rRNA	523492	526412	.	-	.	ID=rna-A4A68_RS01905;Parent=gene-A4A68_RS01905;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A68_RS01905;product=23S ribosomal RNA
+
+GCF_900044015.1.gff
+NZ_LN999835.1	cmsearch	rRNA	612733	614284	.	+	.	ID=rna-A4A70_RS02730;Parent=gene-A4A70_RS02730;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A70_RS02730;product=16S ribosomal RNA
+NZ_LN999835.1	cmsearch	rRNA	614682	617642	.	+	.	ID=rna-A4A70_RS02745;Parent=gene-A4A70_RS02745;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A70_RS02745;product=23S ribosomal RNA
+NZ_LN999835.1	cmsearch	rRNA	617701	617815	.	+	.	ID=rna-A4A70_RS02750;Parent=gene-A4A70_RS02750;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A70_RS02750;product=5S ribosomal RNA
+
+GCF_900048035.1.gff
+NZ_LN999832.1	cmsearch	rRNA	513688	513803	.	-	.	ID=rna-FVIR_RS01415;Parent=gene-FVIR_RS01415;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FVIR_RS01415;product=5S ribosomal RNA
+NZ_LN999832.1	cmsearch	rRNA	658384	659925	.	+	.	ID=rna-FVIR_RS01890;Parent=gene-FVIR_RS01890;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FVIR_RS01890;product=16S ribosomal RNA
+NZ_LN999832.1	cmsearch	rRNA	660659	663565	.	+	.	ID=rna-FVIR_RS01905;Parent=gene-FVIR_RS01905;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FVIR_RS01905;product=23S ribosomal RNA
+
+GCF_900048045.1.gff
+NZ_LN999831.1	cmsearch	rRNA	171931	173483	.	+	.	ID=rna-A4A67_RS00860;Parent=gene-A4A67_RS00860;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A67_RS00860;product=16S ribosomal RNA
+NZ_LN999831.1	cmsearch	rRNA	173753	176654	.	+	.	ID=rna-A4A67_RS00875;Parent=gene-A4A67_RS00875;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A67_RS00875;product=23S ribosomal RNA
+NZ_LN999831.1	cmsearch	rRNA	176696	176812	.	+	.	ID=rna-A4A67_RS00880;Parent=gene-A4A67_RS00880;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A67_RS00880;product=5S ribosomal RNA
+
+GCF_900090215.1.gff
+NZ_LT594522.1	cmsearch	rRNA	47393	48942	.	+	.	ID=rna-TREMTM_RS00245;Parent=gene-TREMTM_RS00245;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=TREMTM_RS00245;product=16S ribosomal RNA
+NZ_LT594522.1	cmsearch	rRNA	49256	52177	.	+	.	ID=rna-TREMTM_RS00260;Parent=gene-TREMTM_RS00260;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=TREMTM_RS00260;product=23S ribosomal RNA
+NZ_LT594522.1	cmsearch	rRNA	52210	52325	.	+	.	ID=rna-TREMTM_RS00265;Parent=gene-TREMTM_RS00265;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=TREMTM_RS00265;product=5S ribosomal RNA
+
+GCF_900343015.1.gff
+NZ_LR025108.1	cmsearch	rRNA	423309	424849	.	+	.	ID=rna-WBAF_RS01455;Parent=gene-WBAF_RS01455;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WBAF_RS01455;product=16S ribosomal RNA
+NZ_LR025108.1	cmsearch	rRNA	425341	428386	.	+	.	ID=rna-WBAF_RS01465;Parent=gene-WBAF_RS01465;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WBAF_RS01465;product=23S ribosomal RNA
+NZ_LR025108.1	cmsearch	rRNA	428517	428633	.	+	.	ID=rna-WBAF_RS01470;Parent=gene-WBAF_RS01470;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WBAF_RS01470;product=5S ribosomal RNA
+NZ_LR025108.1	cmsearch	rRNA	448314	448405	.	+	.	ID=rna-WBAF_RS01650;Parent=gene-WBAF_RS01650;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WBAF_RS01650;product=5S ribosomal RNA
+NZ_LR025108.1	cmsearch	rRNA	600438	600545	.	+	.	ID=rna-WBAF_RS02250;Parent=gene-WBAF_RS02250;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WBAF_RS02250;product=5S ribosomal RNA
+
+GCF_900638335.1.gff
+NZ_LR134508.1	cmsearch	rRNA	442021	443534	.	+	.	ID=rna-EL235_RS02340;Parent=gene-EL235_RS02340;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EL235_RS02340;product=16S ribosomal RNA
+NZ_LR134508.1	cmsearch	rRNA	444244	447151	.	+	.	ID=rna-EL235_RS02355;Parent=gene-EL235_RS02355;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EL235_RS02355;product=23S ribosomal RNA
+NZ_LR134508.1	cmsearch	rRNA	447400	447516	.	+	.	ID=rna-EL235_RS02360;Parent=gene-EL235_RS02360;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EL235_RS02360;product=5S ribosomal RNA
+NZ_LR134508.1	cmsearch	rRNA	508012	509525	.	+	.	ID=rna-EL235_RS02685;Parent=gene-EL235_RS02685;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EL235_RS02685;product=16S ribosomal RNA
+NZ_LR134508.1	cmsearch	rRNA	510235	513142	.	+	.	ID=rna-EL235_RS02700;Parent=gene-EL235_RS02700;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EL235_RS02700;product=23S ribosomal RNA
+NZ_LR134508.1	cmsearch	rRNA	513391	513507	.	+	.	ID=rna-EL235_RS02705;Parent=gene-EL235_RS02705;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EL235_RS02705;product=5S ribosomal RNA
+NZ_LR134508.1	cmsearch	rRNA	1419998	1420114	.	-	.	ID=rna-EL235_RS07245;Parent=gene-EL235_RS07245;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EL235_RS07245;product=5S ribosomal RNA
+NZ_LR134508.1	cmsearch	rRNA	1420363	1423270	.	-	.	ID=rna-EL235_RS07250;Parent=gene-EL235_RS07250;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EL235_RS07250;product=23S ribosomal RNA
+NZ_LR134508.1	cmsearch	rRNA	1423980	1425493	.	-	.	ID=rna-EL235_RS07265;Parent=gene-EL235_RS07265;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EL235_RS07265;product=16S ribosomal RNA
+
+GCF_902713755.1.gff
+NZ_LR744089.1	cmsearch	rRNA	86271	86387	.	-	.	ID=rna-SISI_RS00415;Parent=gene-SISI_RS00415;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=SISI_RS00415;product=5S ribosomal RNA
+NZ_LR744089.1	cmsearch	rRNA	86414	89288	.	-	.	ID=rna-SISI_RS00420;Parent=gene-SISI_RS00420;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=SISI_RS00420;product=23S ribosomal RNA
+NZ_LR744089.1	cmsearch	rRNA	89503	91037	.	-	.	ID=rna-SISI_RS00430;Parent=gene-SISI_RS00430;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=SISI_RS00430;product=16S ribosomal RNA
+
+GCF_902860225.1.gff
+NZ_LR794158.1	cmsearch	rRNA	161069	161177	.	-	.	ID=rna-ESZ_RS01025;Parent=gene-ESZ_RS01025;Dbxref=RFAM:RF00001;gbkey=rRNA;gene=rrf;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=ESZ_RS01025;product=5S ribosomal RNA
+NZ_LR794158.1	cmsearch	rRNA	161186	164096	.	-	.	ID=rna-ESZ_RS01030;Parent=gene-ESZ_RS01030;Dbxref=RFAM:RF02541;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=ESZ_RS01030;product=23S ribosomal RNA
+NZ_LR794158.1	cmsearch	rRNA	164396	165937	.	-	.	ID=rna-ESZ_RS01045;Parent=gene-ESZ_RS01045;Dbxref=RFAM:RF00177;gbkey=rRNA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=ESZ_RS01045;product=16S ribosomal RNA
+

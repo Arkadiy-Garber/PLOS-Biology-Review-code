@@ -1,0 +1,238 @@
+GCA_000008885.1.gff
+
+GCA_000021505.1.gff
+
+GCA_000043285.1.gff
+
+GCA_000147015.1.gff
+CP002161.1	Genbank	tmRNA	89907	90242	.	+	.	ID=rna-ZICARI_095;Parent=gene-ZICARI_095;Note=predicted from Rfam;gbkey=tmRNA;gene=ssrA;locus_tag=ZICARI_095;product=tmRNA
+
+GCA_000331975.1.gff
+CP003263.1	Genbank	tmRNA	258507	258872	.	+	.	ID=rna-ASNER_266;Parent=gene-ASNER_266;Note=tmRNA predicted using tRNAScan-SE;gbkey=tmRNA;gene=ssrA;locus_tag=ASNER_266;product=tmRNA
+
+GCA_000412755.1.gff
+CP003982.1	Genbank	tmRNA	35286	35622	.	+	.	ID=rna-TPPAVE_045;Parent=gene-TPPAVE_045;Note=predicted with Rfam scan;gbkey=tmRNA;gene=ssrA;locus_tag=TPPAVE_045
+
+GCA_000699475.1.gff
+
+GCA_000953435.1.gff
+LM655252.1	EMBL	tmRNA	355574	355939	.	-	.	ID=rna-CEM_366;Parent=gene-CEM_366;gbkey=tmRNA;gene=ssrA;inference=ab initio prediction:INFERNAL:1.1;locus_tag=CEM_366;product=transfer-messenger RNA
+
+GCA_001029715.1.gff
+
+GCA_002074035.1.gff
+
+GCA_002290365.1.gff
+
+GCA_003391315.1.gff
+
+GCA_005697395.1.gff
+CP040011.1	cmsearch	tmRNA	105758	106157	.	+	.	ID=rna-FBF38_00565;Parent=gene-FBF38_00565;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FBF38_00565;product=transfer-messenger RNA
+
+GCA_015134435.1.gff
+CP043989.1	Aragorn	tmRNA	4161	4510	.	+	.	;Name=IMOFCE_00040;Name=transfer-messenger RNA%2C SsrA;locus_tag=IMOFCE_00040;gene=ssrA;product=transfer-messenger RNA%2C SsrA;Parent=IMOFCE_00040_gene;inference=profile:aragorn:1.2;Note=SO:0000584
+
+GCA_015139955.1.gff
+CP043991.1	Aragorn	tmRNA	171366	171717	.	-	.	;Name=OACHAF_01415;Name=transfer-messenger RNA%2C SsrA;locus_tag=OACHAF_01415;gene=ssrA;product=transfer-messenger RNA%2C SsrA;Parent=OACHAF_01415_gene;inference=profile:aragorn:1.2;Note=SO:0000584
+
+GCA_015256915.3.gff
+CP076101.2	cmsearch	tmRNA	101635	102013	.	+	.	ID=rna-HXL38_000535;Parent=gene-HXL38_000535;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXL38_000535;product=transfer-messenger RNA
+
+GCA_015257795.3.gff
+CP072208.2	cmsearch	tmRNA	96439	96816	.	+	.	ID=rna-HXK94_000545;Parent=gene-HXK94_000545;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=HXK94_000545;product=transfer-messenger RNA
+
+GCA_015697925.1.gff
+
+GCA_016699915.1.gff
+CP064990.1	cmsearch	tmRNA	515309	515673	.	-	.	ID=rna-IPK86_02410;Parent=gene-IPK86_02410;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=IPK86_02410;product=transfer-messenger RNA
+
+GCA_017134395.1.gff
+CP070993.1	cmsearch	tmRNA	610101	610492	.	-	.	ID=rna-JXR01_03280;Parent=gene-JXR01_03280;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=JXR01_03280;product=transfer-messenger RNA
+
+GCA_023898665.1.gff
+CP060233.1	cmsearch	tmRNA	436873	437312	.	-	.	ID=rna-H6799_02445;Parent=gene-H6799_02445;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=H6799_02445;product=transfer-messenger RNA
+
+GCA_024818515.1.gff
+
+GCA_025999335.1.gff
+
+GCA_025999395.1.gff
+
+GCA_026016225.1.gff
+CP061210.1	cmsearch	tmRNA	217588	217928	.	-	.	ID=rna-IB617_01200;Parent=gene-IB617_01200;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=IB617_01200;product=transfer-messenger RNA
+
+GCA_027925225.1.gff
+AP027131.1	DDBJ	tmRNA	28911	29254	.	+	.	ID=rna-HPAVJP_tm0010;Parent=gene-HPAVJP_tm0010;gbkey=tmRNA;inference=COORDINATES: profile:Aragorn:1.2.41;locus_tag=HPAVJP_tm0010;product=transfer-messenger RNA
+
+GCA_030060845.1.gff
+CP094379.1	cmsearch	tmRNA	124062	124386	.	+	.	ID=rna-MTP17_00670;Parent=gene-MTP17_00670;Dbxref=RFAM:RF01849;Note=alphaproteobacterial-type;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MTP17_00670;product=transfer-messenger RNA
+
+GCA_900016775.1.gff
+LN890288.1	EMBL	tmRNA	562994	563353	.	-	.	ID=rna-STSPAZIEG_0468;Parent=gene-STSPAZIEG_0468;function=The tmRNA forms a ribonucleoprotein complex (tmRNP) together with Small Protein B (SmpB)%2C Elongation Factor Tu (EF-Tu)%2C and ribosomal protein S1. In trans-translation%2C tmRNA and its associated proteins bind to bacterial ribosomes which have stalled in the middle of protein biosynthesis%2C for example when reaching the end of a messenger RNA which has lost its stop codon. The tmRNA is remarkably versatile: it recycles the stalled g to the inducing tag to the inducing tag to the unfinished polypeptide%2C and facilitates the degradation of the aberrant messenger RNA;gbkey=tmRNA;gene=ssrA;inference=profile:RFAM:RF00023;locus_tag=STSPAZIEG_0468;product=Transfer-messenger RNA
+
+GCA_900019315.1.gff
+
+GCA_944407095.1.gff
+OX097180.1	Aragorn	tmRNA	97362	97693	.	-	.	;Name=HLMAEM_00515;Name=transfer-messenger RNA%2C SsrA;locus_tag=HLMAEM_00515;gene=ssrA;product=transfer-messenger RNA%2C SsrA;Parent=HLMAEM_00515_gene;inference=profile:aragorn:1.2;Note=SO:0000584
+
+GCA_946893605.1.gff
+
+GCF_000008605.1.gff
+NC_000919.1	cmsearch	tmRNA	276533	276886	.	+	.	ID=rna-TP_RS05370;Parent=gene-TP_RS05370;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=TP_RS05370;product=transfer-messenger RNA
+
+GCF_000011745.1.gff
+NC_007292.1	cmsearch	tmRNA	678009	678400	.	+	.	ID=rna-BPEN_RS03310;Parent=gene-BPEN_RS03310;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BPEN_RS03310;product=transfer-messenger RNA
+
+GCF_000012345.1.gff
+NC_007205.1	cmsearch	tmRNA	10219	10520	.	+	.	ID=rna-SAR11_RS06890;Parent=gene-SAR11_RS06890;Dbxref=RFAM:RF01849,GeneID:66295865;Note=alphaproteobacterial-type;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SAR11_RS06890;product=transfer-messenger RNA
+
+GCF_000013165.1.gff
+NC_007798.1	cmsearch	tmRNA	377443	377759	.	+	.	ID=rna-NSE_RS04010;Parent=gene-NSE_RS04010;Dbxref=RFAM:RF01849;Note=alphaproteobacterial-type;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NSE_RS04010;product=transfer-messenger RNA
+
+GCF_000021865.1.gff
+NC_014034.1	cmsearch	tmRNA	3017374	3017722	.	-	.	ID=rna-RCAP_RS19015;Parent=gene-RCAP_RS19015;Dbxref=RFAM:RF01849,GeneID:31492600;Note=alphaproteobacterial-type;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RCAP_RS19015;product=transfer-messenger RNA
+
+GCF_000027325.1.gff
+NC_000908.2	cmsearch	tmRNA	406542	406929	.	+	.	ID=rna-MG_RS02790;Parent=gene-MG_RS02790;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MG_RS02790;product=transfer-messenger RNA
+
+GCF_000093065.1.gff
+NC_014109.1	cmsearch	tmRNA	311523	311892	.	-	.	ID=rna-RIEPE_RS02705;Parent=gene-RIEPE_RS02705;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RIEPE_RS02705;product=transfer-messenger RNA
+
+GCF_000195735.1.gff
+NC_000963.1	cmsearch	tmRNA	914463	914992	.	-	.	ID=rna-RP_RS03730;Parent=gene-RP_RS03730;Dbxref=RFAM:RF01849;Note=alphaproteobacterial-type;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=RP_RS03730;product=transfer-messenger RNA
+
+GCF_000196075.1.gff
+NC_004551.1	cmsearch	tmRNA	616142	616510	.	-	.	ID=rna-TW_RS04590;Parent=gene-TW_RS04590;Dbxref=RFAM:RF00023,GeneID:67388611;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=TW_RS04590;product=transfer-messenger RNA
+
+GCF_000219175.1.gff
+NC_015735.1	cmsearch	tmRNA	484265	484649	.	+	.	ID=rna-MEPCIT_RS02425;Parent=gene-MEPCIT_RS02425;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=MEPCIT_RS02425;product=transfer-messenger RNA
+
+GCF_000247565.1.gff
+NC_016893.1	cmsearch	tmRNA	127255	127619	.	+	.	ID=rna-WIGMOR_RS03490;Parent=gene-WIGMOR_RS03490;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WIGMOR_RS03490;product=transfer-messenger RNA
+
+GCF_000287295.1.gff
+
+GCF_000304455.1.gff
+NC_018605.1	cmsearch	tmRNA	148845	149279	.	-	.	ID=rna-AL022_RS04185;Parent=gene-AL022_RS04185;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=AL022_RS04185;product=transfer-messenger RNA
+
+GCF_000709555.1.gff
+NZ_CP006873.1	cmsearch	tmRNA	24724	25114	.	-	.	ID=rna-FNIIJ_RS01600;Parent=gene-FNIIJ_RS01600;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FNIIJ_RS01600;product=transfer-messenger RNA
+
+GCF_000754265.1.gff
+NZ_CP008985.1	cmsearch	tmRNA	664255	664641	.	+	.	ID=rna-IM45_RS03705;Parent=gene-IM45_RS03705;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=IM45_RS03705;product=transfer-messenger RNA
+
+GCF_000828515.1.gff
+NZ_AP010872.1	cmsearch	tmRNA	526811	527180	.	+	.	ID=rna-ICMP_RS03360;Parent=gene-ICMP_RS03360;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ICMP_RS03360;product=transfer-messenger RNA
+
+GCF_000829155.1.gff
+NZ_AP013293.1	cmsearch	tmRNA	198394	198789	.	+	.	ID=rna-SMPSPU_RS01480;Parent=gene-SMPSPU_RS01480;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=SMPSPU_RS01480;product=transfer-messenger RNA
+
+GCF_000931575.1.gff
+NZ_CP007470.1	cmsearch	tmRNA	346250	346615	.	+	.	ID=rna-NTHI477_RS09155;Parent=gene-NTHI477_RS09155;Dbxref=RFAM:RF00023,GeneID:72526836;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NTHI477_RS09155;product=transfer-messenger RNA
+
+GCF_000974825.1.gff
+NZ_CP010443.1	cmsearch	tmRNA	3491560	3491922	.	+	.	ID=rna-SH04_RS22995;Parent=gene-SH04_RS22995;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=SH04_RS22995;product=transfer-messenger RNA
+
+GCF_001242845.1.gff
+NZ_LN774881.1	cmsearch	tmRNA	45808	46201	.	+	.	ID=rna-WEOB_RS00200;Parent=gene-WEOB_RS00200;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=WEOB_RS00200;product=transfer-messenger RNA
+
+GCF_001269425.1.gff
+NZ_CP011787.1	cmsearch	tmRNA	545966	546353	.	+	.	ID=rna-AB162_RS02940;Parent=gene-AB162_RS02940;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=AB162_RS02940;product=transfer-messenger RNA
+
+GCF_002119845.1.gff
+NZ_CP020906.1	cmsearch	tmRNA	2819036	2819398	.	+	.	ID=rna-NXC12_RS14185;Parent=gene-NXC12_RS14185;Dbxref=RFAM:RF01849;Note=alphaproteobacterial-type;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=NXC12_RS14185;product=transfer-messenger RNA
+
+GCF_002776555.1.gff
+NZ_CP021497.1	cmsearch	tmRNA	489300	489766	.	+	.	ID=rna-CCU22_RS02420;Parent=gene-CCU22_RS02420;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=CCU22_RS02420;product=transfer-messenger RNA
+
+GCF_002777075.1.gff
+NZ_CP017742.1	cmsearch	tmRNA	20660	21079	.	-	.	ID=rna-BKB91_RS00100;Parent=gene-BKB91_RS00100;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BKB91_RS00100;product=transfer-messenger RNA
+
+GCF_002849995.1.gff
+NZ_CP016343.1	cmsearch	tmRNA	345122	345494	.	-	.	ID=rna-BBB03_RS01490;Parent=gene-BBB03_RS01490;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=BBB03_RS01490;product=transfer-messenger RNA
+
+GCF_004296475.1.gff
+
+GCF_005080705.1.gff
+NZ_CP032996.1	cmsearch	tmRNA	145385	145749	.	-	.	ID=rna-D9V81_RS00690;Parent=gene-D9V81_RS00690;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=D9V81_RS00690;product=transfer-messenger RNA
+
+GCF_009883795.1.gff
+NZ_CP033868.1	cmsearch	tmRNA	406463	406845	.	-	.	ID=rna-EGQ50_RS01925;Parent=gene-EGQ50_RS01925;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EGQ50_RS01925;product=transfer-messenger RNA
+
+GCF_012562765.1.gff
+NZ_CP046226.1	cmsearch	tmRNA	437889	438248	.	-	.	ID=rna-GJT83_RS02090;Parent=gene-GJT83_RS02090;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT83_RS02090;product=transfer-messenger RNA
+
+GCF_012571345.1.gff
+NZ_CP046218.1	cmsearch	tmRNA	406012	406370	.	-	.	ID=rna-GJT87_RS01985;Parent=gene-GJT87_RS01985;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GJT87_RS01985;product=transfer-messenger RNA
+
+GCF_013030075.1.gff
+NZ_AP023069.1	cmsearch	tmRNA	934082	934444	.	+	.	ID=rna-HT085_RS04810;Parent=gene-HT085_RS04810;Dbxref=RFAM:RF00023,GeneID:66753213;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=HT085_RS04810;product=transfer-messenger RNA
+
+GCF_013463375.1.gff
+
+GCF_013463555.1.gff
+NZ_CP041281.1	cmsearch	tmRNA	210138	210517	.	+	.	ID=rna-FK495_RS00935;Parent=gene-FK495_RS00935;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=FK495_RS00935;product=transfer-messenger RNA
+
+GCF_014251515.1.gff
+NZ_CP059188.1	Aragorn	tmRNA	10726	11127	.	-	.	;Name=FCDFLE_00040;Name=transfer-messenger RNA%2C SsrA;locus_tag=FCDFLE_00040;gene=ssrA;product=transfer-messenger RNA%2C SsrA;Parent=FCDFLE_00040_gene;inference=profile:aragorn:1.2;Note=SO:0000584
+
+GCF_014251975.1.gff
+NZ_CP059204.1	Aragorn	tmRNA	9100	9496	.	-	.	;Name=IJMHED_00030;Name=transfer-messenger RNA%2C SsrA;locus_tag=IJMHED_00030;gene=ssrA;product=transfer-messenger RNA%2C SsrA;Parent=IJMHED_00030_gene;inference=profile:aragorn:1.2;Note=SO:0000584
+
+GCF_016889585.1.gff
+NZ_CP069645.1	Aragorn	tmRNA	21246	21502	.	-	.	;Name=EBJJNC_00115;Name=transfer-messenger RNA%2C SsrA;locus_tag=EBJJNC_00115;gene=ssrA;product=transfer-messenger RNA%2C SsrA;Parent=EBJJNC_00115_gene;inference=profile:aragorn:1.2;Note=SO:0000584
+
+GCF_017656055.1.gff
+
+GCF_019669085.1.gff
+NZ_AP024401.1	cmsearch	tmRNA	54895	55263	.	-	.	ID=rna-K5563_RS00270;Parent=gene-K5563_RS00270;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=K5563_RS00270;product=transfer-messenger RNA
+
+GCF_019923565.1.gff
+NZ_CP074435.1	cmsearch	tmRNA	361293	361668	.	+	.	ID=rna-KEC37_RS01805;Parent=gene-KEC37_RS01805;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=KEC37_RS01805;product=transfer-messenger RNA
+
+GCF_020541245.1.gff
+NZ_CP045876.1	cmsearch	tmRNA	221153	221499	.	-	.	ID=rna-GFK87_RS01105;Parent=gene-GFK87_RS01105;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=GFK87_RS01105;product=transfer-messenger RNA
+
+GCF_021222645.1.gff
+NZ_CP089520.1	cmsearch	tmRNA	57707	58096	.	+	.	ID=rna-LR957_RS00315;Parent=gene-LR957_RS00315;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=LR957_RS00315;product=transfer-messenger RNA
+
+GCF_024205245.1.gff
+NZ_CP084934.1	Aragorn	tmRNA	201648	202015	.	-	.	;Name=IJMIMI_00935;Name=transfer-messenger RNA%2C SsrA;locus_tag=IJMIMI_00935;gene=ssrA;product=transfer-messenger RNA%2C SsrA;Parent=IJMIMI_00935_gene;inference=profile:aragorn:1.2;Note=SO:0000584
+NZ_CP084934.1	Aragorn	tmRNA	235488	235855	.	-	.	;Name=IJMIMI_01085;Name=transfer-messenger RNA%2C SsrA;locus_tag=IJMIMI_01085;gene=ssrA;product=transfer-messenger RNA%2C SsrA;Parent=IJMIMI_01085_gene;inference=profile:aragorn:1.2;Note=SO:0000584
+
+GCF_025021925.1.gff
+NZ_CP092368.1	cmsearch	tmRNA	39321	39655	.	-	.	ID=rna-MC061_RS00190;Parent=gene-MC061_RS00190;Dbxref=RFAM:RF01849;Note=alphaproteobacterial-type;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=MC061_RS00190;product=transfer-messenger RNA
+
+GCF_026644375.1.gff
+NZ_CP075447.1	cmsearch	tmRNA	46696	47057	.	-	.	ID=rna-KJC72_RS00240;Parent=gene-KJC72_RS00240;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=KJC72_RS00240;product=transfer-messenger RNA
+
+GCF_028856405.1.gff
+NZ_CP110497.1	cmsearch	tmRNA	373140	373510	.	-	.	ID=rna-ONB70_RS01900;Parent=gene-ONB70_RS01900;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=ONB70_RS01900;product=transfer-messenger RNA
+
+GCF_900039485.1.gff
+NZ_LN999833.1	cmsearch	tmRNA	117959	118340	.	+	.	ID=rna-A4A68_RS00460;Parent=gene-A4A68_RS00460;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A68_RS00460;product=transfer-messenger RNA
+
+GCF_900044015.1.gff
+NZ_LN999835.1	cmsearch	tmRNA	624646	625034	.	-	.	ID=rna-A4A70_RS02785;Parent=gene-A4A70_RS02785;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A70_RS02785;product=transfer-messenger RNA
+
+GCF_900048035.1.gff
+NZ_LN999832.1	cmsearch	tmRNA	930559	930944	.	-	.	ID=rna-FVIR_RS02570;Parent=gene-FVIR_RS02570;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=FVIR_RS02570;product=transfer-messenger RNA
+
+GCF_900048045.1.gff
+NZ_LN999831.1	cmsearch	tmRNA	154461	154841	.	+	.	ID=rna-A4A67_RS00760;Parent=gene-A4A67_RS00760;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=A4A67_RS00760;product=transfer-messenger RNA
+
+GCF_900090215.1.gff
+NZ_LT594522.1	cmsearch	tmRNA	28762	29142	.	+	.	ID=rna-TREMTM_RS00145;Parent=gene-TREMTM_RS00145;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=TREMTM_RS00145;product=transfer-messenger RNA
+
+GCF_900343015.1.gff
+NZ_LR025108.1	cmsearch	tmRNA	384423	384785	.	-	.	ID=rna-WBAF_RS01315;Parent=gene-WBAF_RS01315;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=WBAF_RS01315;product=transfer-messenger RNA
+
+GCF_900638335.1.gff
+NZ_LR134508.1	cmsearch	tmRNA	1247758	1248117	.	-	.	ID=rna-EL235_RS06365;Parent=gene-EL235_RS06365;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=EL235_RS06365;product=transfer-messenger RNA
+
+GCF_902713755.1.gff
+NZ_LR744089.1	cmsearch	tmRNA	276108	276602	.	-	.	ID=rna-SISI_RS01540;Parent=gene-SISI_RS01540;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.1;locus_tag=SISI_RS01540;product=transfer-messenger RNA
+
+GCF_902860225.1.gff
+NZ_LR794158.1	cmsearch	tmRNA	106113	106454	.	-	.	ID=rna-ESZ_RS00650;Parent=gene-ESZ_RS00650;Dbxref=RFAM:RF00023;gbkey=tmRNA;gene=ssrA;inference=COORDINATES: profile:INFERNAL:1.1.4;locus_tag=ESZ_RS00650;product=transfer-messenger RNA
+
